@@ -517,31 +517,6 @@ table {
   visibility: visible;
   opacity: 1; }
 
-canvas {
-  position: absolute;
-  top: 0;
-  left: 0;
-  margin: 0;
-  padding-top: 10%;
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-  visibility: visible;
-  opacity: 1;
-  z-index: -1; }
-
-body {
-  position: relative;
-  display: block;
-  font-family: Trebuchet MS;
-  background-color: black;
-  color: #777;
-  align: center;
-  width: 100%;
-  height: 100%;
-  visibility: visible;
-  opacity: 1; }
-
 /* relevant styles */
 .img__wrap {
   position: relative;
@@ -577,3 +552,28 @@ body {
 .post-content p img {
   display: block;
   margin: auto; }
+
+img[src*="#thumbnail"] {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  height: 100px;
+  border: 2px solid black; }
+
+img[src*="#background"] {
+  position: absolute;
+  width: 100%;
+  height: 50%;
+  z-index: 0;
+  opacity: .3; }
+
+img[src*="#header"] {
+  width: 100%;
+  height: 100%; }
+
+img[src*="#capture"] {
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+  height: 50%; }
