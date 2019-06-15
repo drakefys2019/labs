@@ -517,6 +517,9 @@ table {
   visibility: visible;
   opacity: 1; }
 
+.site-nav {
+  display: none; }
+
 /* relevant styles */
 .img__wrap {
   position: relative;

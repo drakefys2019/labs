@@ -90,6 +90,8 @@ Albert Einstein, 1930
 
 <span style="color: blue">In your own words, describe how this excerpt reflects the nature of the puzzles and environment in this section of the island.</span>
 
+
+
 ![Audio Log 1](captures/audio_log_1.jpg#capture)
 
 ### Completing The Island
