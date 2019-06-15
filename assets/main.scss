@@ -83,6 +83,15 @@ img[src*="#thumbnail"] {
   border: 2px solid black;
 }
 
+img[src*="#audio_log"] {
+  display:block;
+  margin-left: 0;
+  margin-right: auto;
+  width: 150px;
+  height: 100px;
+  border: 2px solid black;
+}
+
 img[src*="#background"] {
   position: absolute;
   width:100%;
@@ -99,6 +108,6 @@ img[src*="#header"] {
 img[src*="#capture"] {
   margin-left: 25%;
   margin-right: 25%;
-  width:50%;
-  height:50%;
+  width:75%;
+  height:75%;
 }

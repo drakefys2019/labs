@@ -43,3 +43,21 @@ function renderPageText() {
     x.style.opacity = '0';
   }
 }
+
+function collapseExcerpt1() {
+  var x = document.getElementById("excerpt1");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+
+function collapseExcerpt2() {
+  var x = document.getElementById("excerpt2");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
