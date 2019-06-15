@@ -11,92 +11,91 @@ dependencies:
 ![Header Image 1](captures/header.jpg#header)
 # Desert Ruins
 
-Directly North of Symmetry Island, an abandoned desert ruin sits smoldering in the Sun. 
+Just North of Symmetry Island, a bleached pile of ruins sits smoldering in the bright sunlight.
 
 ## <center>You Are Here</center>
 
-![Witness Map Lab 1](captures/Witness_Map_Lab2.jpg#capture)
+![Witness Map Lab 2](captures/Witness_Map_Lab2.jpg#capture)
 
-Consider these aspects of the factory environment:
-
-### Key Insights
-
-| [Balance](#balance) | [Material](#material) | [Intuition](#intuition) | [Bonus Puzzle](#bonus-puzzle)
-|:-:|:-:|:-:|:-:|
-|![Thumbnail A1](captures/capture_A1.jpg#thumbnail)| ![Thumbnail A2](captures/capture_A2.jpg#thumbnail)| ![Thumbnail A3](captures/capture_A3.jpg#thumbnail)|![Thumbnail A4](captures/capture_A4.jpg#thumbnail)|
-
-### Balance
-Upon completing the factory door puzzle you enter into a room containing vase-like objects on pedestals.
-
-<span style="color: blue">What do you notice about the relationships between these objects? As you complete the puzzles in the glass factory, consider the similarities between the symmetry of the control lines, and the symmetry in the forms of these objects.</span>
-
-![Capture Image 1A](captures/capture_A1.jpg#capture)
-
-### Material
-Observe how the tint of the glass plate affects the color of the sky in this shot.
-
-<span style="color: blue">Take a screenshot of another element in the environment that seems to affect its surroundings.</span>
-
-![Capture Image 2A](captures/capture_A2.jpg#capture)
-
-### Intuition
-As you complete this section of the factory, consider how the melted glass affects your ability to solve the puzzle.
-
-<span style="color: blue">Did you change your problem-solving technique as the glass grew progressively distorted? If so, what did you do differently to solve it?</span>
-
-![Capture Image 3A](captures/capture_A3.jpg#capture)
-
-### Bonus Puzzle
-This puzzle can be found tucked away on the roof of the factory.
-
-<span style="color: blue">Jot down your current theory as to how these bonus puzzles work.</span>
-
-![Bonus Puzzle Image](captures/capture_A4.jpg#capture)
-
-Once you've completed the glass factory, follow the powered cord to Symmetry Island.
-
-
-![Header Image B](captures/header_B.jpg#header)
-# Part B: Symmetry Island
+Consider these aspects of the desert ruins:
 
 ### Key Insights
 
-|[Audiotape B1](#audiotape-b1)|[Perspective](#perspective)|[Reflection](#reflection)|[Audiotape B2](#audiotape-b2)|
-|:-:|:-:|:-:|:-:|
-|![Thumbnail B1](captures/capture_B1.jpg#thumbnail)|![Thumbnail B2](captures/capture_B2.jpg#thumbnail)|![Thumbnail_B3](captures/capture_B3.jpg#thumbnail)|![Thumbnail_B4](captures/capture_B4.jpg#thumbnail)|
+| [Catching Reflected Light](#catching-reflected-light) | [Controlling Machinery](#controlling-machinery) |
+|:-:|:-:|
+|![Thumbnail 1](captures/capture_1.jpg#thumbnail)| ![Thumbnail 2](captures/capture_2.jpg#thumbnail)|
 
-### Audiotape B1
-The first puzzle section you encounter after taking a left through the first gate has an audiotape sitting on the ground next to it.
+### Audio Logs
 
-<span style="color: blue">After listening to the tape, write down a brief reflection in response to what you heard.</span>
+- [Albert Einstein](#albert-einstein):
+: ![Audio Log 1](captures/audio_log_1.jpg#audio_log)
 
-![Image B1](captures/capture_B1.jpg#capture)
+### Catching Reflected Light
+As you traverse the desert ruins, consider how reflected light plays a role in solving this area's puzzles.
 
-### Perspective
-Many of the puzzles on Symmetry Island require you to re-orient your view of the environment in order to decipher the solution.
+<span style="color: blue"></span>
 
-<span style="color: blue">What strategies do you use to solve the puzzles when the solution is hidden from view?</span>
+![Image 1](captures/capture_1.jpg#capture)
 
-![Image B2](captures/capture_B2.jpg#capture)
+### Controlling Machinery
+Many of the puzzles in this area can be more easily solved by activating the technology in the environment. Try adjusting this monitor's position by controlling this switch.
 
-### Reflection
-Reflection and symmetry play very important roles in many of the puzzles on this island.
+<span style="color: blue"></span>
 
-<span style="color: blue">When solving puzzles with symmetric control-lines, do you try to solve for one line at a time, or both simultaneously? Do you consider one control-line the original, and the other its reflection?</span>
+![Image 2](captures/capture_2.jpg#capture)
 
-![Image B3](captures/capture_B3.jpg#capture)
+### [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
 
-### Audiotape B2
-Just after passing through the second gate on the island hang left to find a side-path to a shaded area, and an audiotape resting on the ground.
+Climb atop a shiny structure to the north of the main ruins to discover an audio log excerpt of Albert Einstein reflecting on "cosmic religious feeling".
 
-<span style="color: blue">After listening to the tape, write down a brief reflection in response to what you heard.</span>
+<button onclick="collapseExcerpt1()">View Excerpt</button>
 
-![Audiotape B2](captures/capture_B4.jpg#capture)
+<div id="excerpt1" style="display:none">
+
+"I maintain that the cosmic religious feeling
+is the strongest and the noblest motive for scientific research.
+Only those who realize the immense efforts
+and, above all, the devotion
+without which pioneer work in theoretical science
+cannot be achieved
+are able to grasp the strength of the emotion
+out of which alone such work,
+remote as it is from the immediate realities of life, can issue.
+What a deep conviction of the rationality of the universe
+and what a yearning to understand,
+were it but a feeble reflection
+of the mind revealed in this world,
+Kepler and Newton must have had
+to enable them to spend years of solitary labor
+in disentangling the principles of celestial mechanics!
+Those whose acquaintance with scientific research is derived chiefly from its practical results
+easily develop a completely false notion of the mentality
+of the men who, surrounded by a skeptical world,
+have shown the way to kindred spirits scattered wide
+through the world and through the centuries.
+Only one who has devoted his life to similar ends
+can have a vivid realization of what has inspired these men
+and given them strength to remain true to their purpose
+in spite of countless failures.
+It is cosmic religious feeling that gives a man such strength.
+A contemporary has said, not unjustly
+that in this materialistic age of ours
+the serious scientific workers
+are the only profoundly religious people."
+<br>
+---
+<br>
+Albert Einstein, 1930
+</div>
+
+<span style="color: blue">In your own words, describe how this excerpt reflects the nature of the puzzles and environment in this section of the island.</span>
+
+![Audio Log 1](captures/audio_log_1.jpg#capture)
 
 ### Completing The Island
 This part of the island is complete when the final puzzle is solved and the laser fires into the sky. Nice work!
 
-![Image B5](captures/capture_B5.jpg#capture)
+![Laser Capture Image](captures/laser_capture.jpg#capture)
 
 ### Written Response
 
