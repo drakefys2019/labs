@@ -4,6 +4,8 @@
 
 @import "minima";
 
+$venus: #998099;
+$soft-aqua: #5693a6;
 
 /* quick reset and base styles */
 // {
@@ -16,11 +18,15 @@
 // font-family: helvetica, arial, sans-serif;
 // }
 
+.site-body {
+  color: $venus;
+}
+
 .site-header {
   position: relative;
   display: block;
   font-family: Trebuchet MS;
-  background-color: silver;
+  background-color: $soft-aqua;
   color: #777;
   align: center;
   width: 100%;

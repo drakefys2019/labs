@@ -11,7 +11,7 @@ dependencies:
 ![Header Image 1](captures/header.jpg#header)
 # The Monastery
 
-Centered in the Southern section of the island, a zen monastery offers puzzling environmental mysteries. 
+Centered in the Southern section of the island, a zen monastery offers puzzling environmental mysteries.
 
 ## <center>You Are Here</center>
 
@@ -40,7 +40,7 @@ Consider the first puzzle in this area, locked behind the entrance.
 ### Obstructions
 Consider this Bonsai tree sculpture in the monastery.
 
-<span style="color: blue">In your own words, describe the simple lesson this puzzle attempts to communicate to the player.</span>
+<span style="color: blue">What simple lesson this puzzle attempts to communicate to the player?</span>
 
 ![Image 2](captures/capture_2.jpg#capture)
 
@@ -59,7 +59,7 @@ After manipulating the East-facing wall of the monastery, an audio log will be r
 Ibn 'Arabi
 </div>
 
-<span style="color: blue">Respond to this brief quote from Ibn 'Arabi. How would you define an act of perception?</span>
+<span style="color: blue">Does your perception reveal problems that already exist in the environment, or does the act of perception create problems within the environment?</span>
 
 ![Audio Log 1](captures/audio_log_1.jpg#capture)
 

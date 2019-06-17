@@ -33,7 +33,7 @@ Across the lake from the monastery, sun-rays cut through a patch of shady trees,
 ### Light v. Shadow
 One section of this area concerns shadow, while the other portion concerns light.
 
-<span style="color: blue">In solving one portion of this area, did you find it easier to solve the remaining area after the first?</span>
+<span style="color: blue"></span>
 
 ![Capture Image 1](captures/capture_1.jpg#capture)
 
@@ -86,7 +86,7 @@ beyond language, beyond concepts to the concrete.
 David Darling, 1996
 </div>
 
-<span style="color: blue">How does the content of David Darling's excerpt help you understand this area? What differences do you see between the man-made objects and natural objects on this section of the island?</span>
+<span style="color: blue">Do you think David Darling's excerpt relates to the puzzles in this area?</span>
 
 ![Audio Log 1](captures/audio_log_1.jpg#capture)
 
@@ -110,7 +110,7 @@ wind stirs.
 Ryonen, 1711
 </div>
 
-<span style="color: blue">Reflect on what Ryonen might mean when she says, "Only listen to the voice of pines and cedars when no wind stirs." Is light perhaps this voice when no wind stirs the trees?</span>
+<span style="color: blue">What might Ryonen mean when she says, "Only listen to the voice of pines and cedars when no wind stirs." Is light perhaps this voice when no wind stirs the trees?</span>
 
 ![Audio Log 2](captures/audio_log_2.jpg#capture)
 

@@ -31,7 +31,7 @@ Consider these aspects of the desert ruins:
 : ![Audio Log 1](captures/audio_log_1.jpg#audio_log)
 
 ### Catching Reflected Light
-As you traverse the desert ruins, consider how reflected light plays a role in solving this area's puzzles.
+As you traverse the desert ruins, consider how the Sun reflects brightly off various surfaces. Does this effect play a role in an of this area's puzzles?
 
 <span style="color: blue"></span>
 

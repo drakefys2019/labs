@@ -505,11 +505,14 @@ table {
     color: #099; }
 
 /* quick reset and base styles */
+.site-body {
+  color: #998099; }
+
 .site-header {
   position: relative;
   display: block;
   font-family: Trebuchet MS;
-  background-color: silver;
+  background-color: #5693a6;
   color: #777;
   align: center;
   width: 100%;
