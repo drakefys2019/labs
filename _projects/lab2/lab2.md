@@ -23,7 +23,7 @@ Consider these aspects of the desert ruins:
 
 | [Catching Reflected Light](#catching-reflected-light) | [Controlling Machinery](#controlling-machinery) |
 |:-:|:-:|
-|![Thumbnail 1](captures/capture_1.jpg#thumbnail)| ![Thumbnail 2](captures/capture_2.jpg#thumbnail)|
+|![Thumbnail 1](captures/capture_1-1.jpg#thumbnail)| ![Thumbnail 2](captures/capture_2.jpg#thumbnail)|
 
 ### Audio Logs
 
@@ -31,11 +31,14 @@ Consider these aspects of the desert ruins:
 : ![Audio Log 1](captures/audio_log_1.jpg#audio_log)
 
 ### Catching Reflected Light
-As you traverse the desert ruins, consider how the Sun reflects brightly off various surfaces. Does this effect play a role in an of this area's puzzles?
+As you traverse the desert ruins, consider how the Sun reflects brightly off various surfaces. What role might this effect play in any of this area's puzzles?
 
 <span style="color: blue"></span>
 
-![Image 1](captures/capture_1.jpg#capture)
+![Image 1](captures/capture_1-1.jpg#capture)
+
+![Image 2](captures/capture_1-2.jpg#capture)
+
 
 ### Controlling Machinery
 Many of the puzzles in this area can be more easily solved by activating the technology in the environment. Try adjusting this monitor's position by controlling this switch.
@@ -88,7 +91,7 @@ are the only profoundly religious people."
 Albert Einstein, 1930
 </div>
 
-<span style="color: blue">In your own words, describe how this excerpt reflects the nature of the puzzles and environment in this section of the island.</span>
+<span style="color: blue">Consider how this excerpt may reflect the nature of the puzzles and environment in this section of the island.</span>
 
 
 

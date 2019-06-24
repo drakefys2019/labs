@@ -17,6 +17,12 @@ Across the lake from the monastery, sun-rays cut through a patch of shady trees,
 
 ![Witness Map Lab 1](captures/Witness_Map_Lab4.jpg#capture)
 
+### Starting Point
+
+The area's section of puzzles begins just beyond this rusty, orange door.
+
+![Starting Point Image](captures/starting_point.jpg#capture)
+
 ### Key Insights
 
 | [Light v Shadow](#light-v-shadow) | [Perspective](#perspective) |
@@ -31,11 +37,14 @@ Across the lake from the monastery, sun-rays cut through a patch of shady trees,
 : ![Audio Log 2](captures/audio_log_2.jpg#audio_log)
 
 ### Light v. Shadow
-One section of this area concerns shadow, while the other portion concerns light.
-
-<span style="color: blue"></span>
+One section of this area concerns casted shadows.
+<br><br>
+![Image Capture 3](captures/capture_3.jpg#capture) <br>
+The other portion deals with scattered light.
 
 ![Capture Image 1](captures/capture_1.jpg#capture)
+
+<span style="color: blue">Do lessons from one side of this area give insight into the solutions of the other side?</span>
 
 ### Perspective
 When solving these puzzles, consider your position in the environment, and your view of the puzzle screen.

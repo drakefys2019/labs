@@ -4,6 +4,7 @@ title:  "LAB 1"
 date:   2019-05-06
 thumbnail: captures/header_A.jpg
 dependencies:
+- helpers
 
 ---
 
@@ -35,7 +36,7 @@ Upon completing the factory door puzzle you enter into a room containing vase-li
 ### Material
 Observe how the tint of the glass plate affects the color of the sky in this shot.
 
-<span style="color: blue">Take a screenshot of another element in the environment that seems to affect its surroundings.</span>
+<span style="color: blue">Are there other elements in the environment that seem to affect their surroundings?</span>
 
 ![Capture Image 2A](captures/capture_A2.jpg#capture)
 
@@ -47,9 +48,9 @@ As you complete this section of the factory, consider how the melted glass affec
 ![Capture Image 3A](captures/capture_A3.jpg#capture)
 
 ### Bonus Puzzle
-This puzzle can be found tucked away on the roof of the factory.
+This secret puzzle can be found tucked away on the roof of the factory.
 
-<span style="color: blue">Jot down your current theory as to how these bonus puzzles work.</span>
+<span style="color: blue">I wonder what simple lesson this puzzle is trying to convey...</span>
 
 ![Bonus Puzzle Image](captures/capture_A4.jpg#capture)
 
@@ -61,16 +62,17 @@ Once you've completed the glass factory, follow the powered cord to Symmetry Isl
 
 ### Key Insights
 
-|[Audiotape B1](#audiotape-b1)|[Perspective](#perspective)|[Reflection](#reflection)|[Audiotape B2](#audiotape-b2)|
-|:-:|:-:|:-:|:-:|
-|![Thumbnail B1](captures/capture_B1.jpg#thumbnail)|![Thumbnail B2](captures/capture_B2.jpg#thumbnail)|![Thumbnail_B3](captures/capture_B3.jpg#thumbnail)|![Thumbnail_B4](captures/capture_B4.jpg#thumbnail)|
+|[Perspective](#perspective)|[Reflection](#reflection) |
+|:-:|:-:|
+|![Thumbnail B2](captures/capture_B2.jpg#thumbnail)|![Thumbnail_B3](captures/capture_B3.jpg#thumbnail)|
 
-### Audiotape B1
-The first puzzle section you encounter after taking a left through the first gate has an audiotape sitting on the ground next to it.
+### Audio Logs
 
-<span style="color: blue">After listening to the tape, write down a brief reflection in response to what you heard.</span>
+- [Nicholas of Cusa](#nicholas-of-cusa):
+: ![Audio Log 1](captures/audio_log_1.jpg#audio_log)
+- [Yung-chia Ta-shih](#yung-chia-ta-shih):
+: ![Audio Log 1](captures/audio_log_2.jpg#audio_log)
 
-![Image B1](captures/capture_B1.jpg#capture)
 
 ### Perspective
 Many of the puzzles on Symmetry Island require you to re-orient your view of the environment in order to decipher the solution.
@@ -86,12 +88,112 @@ Reflection and symmetry play very important roles in many of the puzzles on this
 
 ![Image B3](captures/capture_B3.jpg#capture)
 
-### Audiotape B2
+### [Nicholas of Cusa](https://en.wikipedia.org/wiki/Nicholas_of_Cusa)
+
+The first puzzle section you encounter after taking a left through the first gate has an audiotape sitting on the ground next to it.
+
+<button onclick="collapseExcerpt1()">View Excerpt</button>
+
+<div id="excerpt1" style="display:none">
+Fromerly you appeared to me, O Lord,
+as invisible by every creature
+
+because you are a hidden, infinite God.
+
+Infinity, however, is incomprehensible
+by every means of comprehending.
+
+Later you appeared to me as visible by all,
+for a thing exists only as you see it,
+
+and it would not actually exist unless it saw you.
+
+For your vision confers being,
+since your vision is your essence.
+
+Thus, my God, you are equally invisible and visible.
+As you are, you are invisible;
+
+as the creature is,
+which exists only insofar as the creature sees you,
+you are visible.
+
+You, therefore, my invisible God, are seen by all,
+and in all sight you are seen by everyone who sees.
+
+You who are invisible,
+who are both absolute from everything visible
+and infinitely superexalted,
+
+are seen in every visible thing
+and in every act of vision.
+
+Therefore, I must leap across this wall of invisible vision
+to where you are to be found.
+
+But this wall is both everything and nothing.
+For you, who confront
+as if you were both all things and nothing at all,
+
+dwell inside that high wall
+which no natural ability can scale by its own power.
+<br>---<br>
+Nicholas of Cusa, 1453
+</div>
+
+![Audio Log 1](captures/audio_log_1.jpg#capture)
+
+### [Yung-chia Ta-shih](http://www.greatthoughtstreasury.com/author/author-115)
+
 Just after passing through the second gate on the island hang left to find a side-path to a shaded area, and an audiotape resting on the ground.
 
 <span style="color: blue">After listening to the tape, write down a brief reflection in response to what you heard.</span>
 
-![Audiotape B2](captures/capture_B4.jpg#capture)
+<button onclick="collapseExcerpt2()">View Excerpt</button>
+
+<div id="excerpt2" style="display:none">
+One nature, perfect and pervading,
+circulates in all natures;
+
+One reality, all-comprehensive,
+contains within itself all realities.
+
+The one Moon reflects itself
+wherever there is a sheet of water,
+
+And all the moons in the waters
+are embraced within the one Moon.
+
+The Absolute of all the Buddhas
+enters into my own being,
+
+And my own being is found
+in union with theirs....
+
+The Inner Light is beyond praise and blame;
+Like space it knows no boundaries,
+
+Yet it is even here, within us,
+ever retaining its serenity and fullness.
+
+It is only when you hunt for it that you lose it;
+
+You cannot take hold of it,
+but equally you cannot get rid of it,
+
+And while you can do neither,
+it goes on its own way.
+
+You remain silent and it speaks;
+you speak, and it is dumb.
+
+The great gate of charity is wide open,
+with no obstacles before it.
+<br>---<br>
+Yung-chia Ta-shih, circa 700
+</div>
+
+![Audio Log 2](captures/audio_log_2.jpg#capture)
 
 ### Completing The Island
 This part of the island is complete when the final puzzle is solved and the laser fires into the sky. Nice work!
