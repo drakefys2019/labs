@@ -103,7 +103,7 @@ B.F. Skinner, 1971
 
 ![Audio Log 1](captures/audio_log_1.jpg#capture)
 
-<span style="color: blue">Is your approach to puzzle solutions in this area dictated by the conditions of the environment, or are your actions your own?</span>
+<span style="color: blue">Do you feel your approach to puzzle solutions in this area is dictated by the environment, or is your approach your own?</span>
 
 ### [Rabindranath Tagore](https://www.nobelprize.org/prizes/literature/1913/tagore/biographical/)
 

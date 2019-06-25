@@ -30,6 +30,7 @@ Consider these aspects of the desert ruins:
 - [Albert Einstein](#albert-einstein):
 : ![Audio Log 1](captures/audio_log_1.jpg#audio_log)
 
+
 ### Catching Reflected Light
 As you traverse the desert ruins, consider how the Sun reflects brightly off various surfaces. What role might this effect play in any of this area's puzzles?
 
@@ -41,7 +42,7 @@ As you traverse the desert ruins, consider how the Sun reflects brightly off var
 
 
 ### Controlling Machinery
-Many of the puzzles in this area can be more easily solved by activating the technology in the environment. Try adjusting this monitor's position by controlling this switch.
+Many of the puzzles in this area can be more easily solved by activating the technology in the environment. Try adjusting this monitor's position by controlling the switch.
 
 <span style="color: blue"></span>
 

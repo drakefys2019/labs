@@ -25,7 +25,7 @@ The area's section of puzzles begins just beyond this rusty, orange door.
 
 ### Key Insights
 
-| [Light v Shadow](#light-v-shadow) | [Perspective](#perspective) |
+| [How Puzzling](#how-puzzling) | [Perspective](#perspective) |
 |:-:|:-:|
 |![Thumbnail 1](captures/capture_1.jpg#thumbnail)| ![Thumbnail 2](captures/capture_2.jpg#thumbnail)|
 
@@ -36,8 +36,8 @@ The area's section of puzzles begins just beyond this rusty, orange door.
 - [Ryonen, 1711](#ryonen-1711):
 : ![Audio Log 2](captures/audio_log_2.jpg#audio_log)
 
-### Light v. Shadow
-One section of this area concerns casted shadows.
+### How Puzzling
+What do you find peculiar about this puzzle?
 <br><br>
 ![Image Capture 3](captures/capture_3.jpg#capture) <br>
 The other portion deals with scattered light.
