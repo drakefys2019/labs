@@ -19,9 +19,9 @@ Adjacent to the shaded section of trees, an echoing tunnel entrance leads to the
 
 ### Key Insights
 
-| [Perspective](#light-v-shadow) | [Perspective](#perspective) |
-|:-:|:-:|
-|![Thumbnail 1](captures/capture_1.jpg#thumbnail)| ![Thumbnail 2](captures/capture_2.jpg#thumbnail)|
+| [Vantage](#vantage) | [Visual Detail](#visual-detail) | [Auditory Detail](#auditory-detail) | [Composite Solutions](#composite-solutions) |
+|:-:|:-:|:-:|:-:|
+|![Thumbnail 1](captures/insight_1.jpg#thumbnail)| ![Thumbnail 2](captures/insight_2.jpg#thumbnail)| ![Thumbnail 3](captures/insight_3.jpg#thumbnail)| ![Thumbnail 4](captures/insight_4.jpg#thumbnail)|
 
 ### Audio Logs
 
@@ -30,22 +30,32 @@ Adjacent to the shaded section of trees, an echoing tunnel entrance leads to the
 - [Rabindranath Tagore, 1910](#rabindranath-tagore):
 : ![Audio Log 2](captures/audio_log_2.jpg#audio_log)
 
-### Light v. Shadow
-One section of this area concerns casted shadows.
+### Vantage
+Sometimes a puzzle can be best scene from a different vantage point.
 <br><br>
-![Image Capture 3](captures/capture_3.jpg#capture) <br>
-The other portion deals with scattered light.
+![Insight Image 1](captures/insight_1.jpg#capture)
 
-![Capture Image 1](captures/capture_1.jpg#capture)
+<span style="color: blue">How does adjusting your position help you find solutions to some of these puzzles?</span>
 
-<span style="color: blue">Do lessons from one side of this area give insight into the solutions of the other side?</span>
+### Visual Detail
+Notice how this panel in broken.
+<br><br>
+![Insight Image 2](captures/insight_2.jpg#capture)
 
-### Perspective
-When solving these puzzles, consider your position in the environment, and your view of the puzzle screen.
+<span style="color: blue">Does the variety of landscape features and obstructions in the environment help you identify the puzzle solutions more easily?</span>
 
-<span style="color: blue">How might you change your perspective to gain insight into the puzzle solutions?</span>
+### Auditory Detail
+As you walk through this dimly lit entrance into the keep, consider how the echoes of your footsteps become acutely noticeable.
+<br><br>
+![Insight Image 3](captures/insight_3.jpg#capture)
 
-![Capture Image 2](captures/capture_2.jpg#capture)
+<span style="color: blue">What other interesting soundscapes pervade the keep's grounds?</span>
+
+### Composite Solutions
+
+![Insight Image 4](captures/insight_4.jpg#capture)
+
+<span style="color: blue"></span>
 
 
 ### [B. F. Skinner](https://psychology.fas.harvard.edu/people/b-f-skinner)
@@ -107,7 +117,7 @@ B.F. Skinner, 1971
 
 ### [Rabindranath Tagore](https://www.nobelprize.org/prizes/literature/1913/tagore/biographical/)
 
-After gaining access to the interior of the gated laser area, turn around to see an audio log sitting on the wall.
+This audio-log recording featuring Rabindranath Tagore can be found atop the amplifier near this guitarist statue.
 
 <button onclick="collapseExcerpt2()">View Excerpt</button>
 
@@ -139,12 +149,12 @@ And you sit there smiling.
 Rabindranath Tagore, 1910
 </div>
 
-<span style="color: blue"></span>
-
 ![Audio Log 2](captures/audio_log_2.jpg#capture)
 
+<span style="color: blue">What do you think is the purpose of the statues in this setting?</span>
 
-### Completing Lab 4
+
+### Completing Lab 5
 
 This part of the island is complete when the final puzzle is solved and the laser fires into the sky. Nice work!
 
