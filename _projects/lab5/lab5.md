@@ -35,14 +35,14 @@ Sometimes a puzzle can be best scene from a different vantage point.
 <br><br>
 ![Insight Image 1](captures/insight_1.jpg#capture)
 
-<span style="color: blue">How does adjusting your position help you find solutions to some of these puzzles?</span>
+<span style="color: blue">How does adjusting your point of view help you find solutions to some of these puzzles?</span>
 
 ### Visual Detail
 Notice how this panel in broken.
 <br><br>
 ![Insight Image 2](captures/insight_2.jpg#capture)
 
-<span style="color: blue">Does the variety of landscape features and obstructions in the environment help you identify the puzzle solutions more easily?</span>
+<span style="color: blue">Does the variety of landscape features and obstructions in the environment help you identify the puzzle solutions more easily? Do these landmarks present additional challenges? How might you improvise if the optimal solution is unattainable?</span>
 
 ### Auditory Detail
 As you walk through this dimly lit entrance into the keep, consider how the echoes of your footsteps become acutely noticeable.
@@ -55,8 +55,7 @@ As you walk through this dimly lit entrance into the keep, consider how the echo
 
 ![Insight Image 4](captures/insight_4.jpg#capture)
 
-<span style="color: blue"></span>
-
+<span style="color: blue">What is the lesson this puzzle is trying to teach you?</span>
 
 ### [B. F. Skinner](https://psychology.fas.harvard.edu/people/b-f-skinner)
 
@@ -65,7 +64,7 @@ An audio log excerpt from B.F. Skinner's 1971 book, ["Beyond Freedom and Dignity
 <button onclick="collapseExcerpt1()">View Excerpt</button>
 
 <div id="excerpt1" style="display:none">
-In the traditional view a person is free.
+"In the traditional view a person is free.
 He is autonomous in the sense that his behavior is uncaused...
 
 That view, together with its associated practices,
@@ -106,7 +105,7 @@ in accordance with a built-in set of values;
 and will it be good for those he controls?
 
 Answers to questions of this sort are said, of course,
-to call for value judgements.
+to call for value judgements."
 <br>---<br>
 B.F. Skinner, 1971
 </div>

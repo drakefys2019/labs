@@ -30,25 +30,25 @@ Lose your way in a thicket of bamboo shoots as you contemplate the aural qualiti
 - [Richard Feynman](#richard-feynman):
 : ![Audio Log 2](captures/audio_log_2.jpg#audio_log)
 
-### Aural and Visual
+### What's The Strategy?
 
 ![Insight Image 1](captures/insight_1.jpg#capture)
 
-<span style="color: blue">Though the puzzles in this section of the island depend mostly on auditory consideration, how might the visual details of these problems also aid in finding the solution?</span>
+<span style="color: blue">These puzzles look peculiar. What do you think their solutions represent?</span>
 
 ### Confusion
 Environmental distraction will make solving these puzzles tricky.
 <br><br>
 ![Insight Image 2](captures/insight_2.jpg#capture)
 
-<span style="color: blue">Consider how you might mentally "filter" the useful puzzle clues from the distracting noise. What mental or physical techniques do you employ to make this process easier?</span>
+<span style="color: blue">Consider how you might mentally "filter" the useful puzzle clues from the distractions. What mental or physical techniques do you employ to make this process easier?</span>
 
 ### Being and Non-being
 Consider this twisted tree located in the center of a maze of bamboo.
 <br><br>
 ![Insight Image 3](captures/insight_3.jpg#capture)
 
-<span style="color: blue">Is this tree apart from the jungle, surrounded yet separate from it? Does the jungle encompass this tree, and all trees, individually? Together? How many bamboo shoots could one remove from this jungle before the jungle would cease to exist?</span>
+<span style="color: blue">Is this tree apart from the jungle, surrounded yet separate from it? Does the jungle encompass this tree, and all trees, individually, or together? How many bamboo shoots could one remove from this jungle before the jungle would cease to exist? *Make more succinct*</span>
 
 ### [Lao Tzu](https://psychology.fas.harvard.edu/people/b-f-skinner)
 
