@@ -12,7 +12,7 @@ dependencies:
 ![Header Image 1](captures/header_A.jpg#header)
 # Part A: The Glass Factory
 
-Just West of our starting point, an abandoned glass factory may hold the key to accessing Symmetry Island.  
+TESTJust West of our starting point, an abandoned glass factory may hold the key to accessing Symmetry Island.  
 
 ## <center>You Are Here</center>
 
