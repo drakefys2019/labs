@@ -48,7 +48,10 @@ Consider this twisted tree located in the center of a maze of bamboo.
 <br><br>
 ![Insight Image 3](captures/insight_3.jpg#capture)
 
-<span style="color: blue">Is this tree apart from the jungle, surrounded yet separate from it? Does the jungle encompass this tree, and all trees, individually, or together? How many bamboo shoots could one remove from this jungle before the jungle would cease to exist? *Make more succinct*</span>
+<!-- Is this tree apart from the jungle, surrounded yet separate from it? Does the jungle encompass this tree, and all trees, individually, or together? How many bamboo shoots could one remove from this jungle before the jungle would cease to exist? -->
+
+<span style="color: blue">
+Why do you think this curved tree is here? What symbolism does the tree convey in the context of this area?<br><br>Is the jungle merely a collection of trees, or can each tree be considered individually, apart from its surroundings? How many trees could one remove from this jungle before the jungle would cease to exist?</span>
 
 ### [Lao Tzu](https://psychology.fas.harvard.edu/people/b-f-skinner)
 
@@ -96,7 +99,7 @@ To received full points for this lab, write a 300-word (or more) reflection on w
 
 As you reflect on your experiences in The Witness from this week, alongside class discussion, lecture, and readings, consider including responses to the <span style="color: blue">prompts in blue</span> as a starting point, as well as your own thoughts, questions, observations, and connections.
 
-Consider including in your responses observations on the puzzle mechanics and game design of the environment in this week's section of puzzles. What interesting environmental clues and insights did you uncover in this area of the game? What lessons, or creative discoveries, from previous island sections may have helped or hindered your completion of this week's challenges, and in what way did they effect your understanding of this week's puzzles?
+Contemplate including in your responses observations on the puzzle mechanics and game design of the environment in this week's section of puzzles. What interesting environmental clues and insights did you uncover in this area of the game? What lessons, or creative discoveries from previous island sections may have helped or hindered your completion of this week's challenges, and in what way did they effect your understanding of this week's puzzles?
 
 Additionally, consider how responses can include your interpretation of in-game quotes from audio recorders and how these quotes might relate to puzzles or ideas from a certain area of The Witness island. Further steps could be taken to research the famous figures behind these audio recorder quotes to learn more about their backgrounds and how their philosophies intertwine with the lessons in this game.
 

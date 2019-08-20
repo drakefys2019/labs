@@ -15,7 +15,7 @@ Across the lake from the monastery, sun-rays cut through a patch of shady trees,
 
 ## <center>You Are Here</center>
 
-![Witness Map Lab 1](captures/Witness_Map_Lab4.jpg#capture)
+![Witness Map Lab 4](captures/Witness_Map_Lab4.jpg#capture)
 
 ### Starting Point
 
@@ -136,6 +136,6 @@ To received full points for this lab, write a 300-word (or more) reflection on w
 
 As you reflect on your experiences in The Witness from this week, alongside class discussion, lecture, and readings, consider including responses to the <span style="color: blue">prompts in blue</span> as a starting point, as well as your own thoughts, questions, observations, and connections.
 
-Consider including in your responses observations on the puzzle mechanics and game design of the environment in this week's section of puzzles. What interesting environmental clues and insights did you uncover in this area of the game? What lessons, or creative discoveries, from previous island sections may have helped or hindered your completion of this week's challenges, and in what way did they effect your understanding of this week's puzzles?
+Contemplate including in your responses observations on the puzzle mechanics and game design of the environment in this week's section of puzzles. What interesting environmental clues and insights did you uncover in this area of the game? What lessons, or creative discoveries from previous island sections may have helped or hindered your completion of this week's challenges, and in what way did they effect your understanding of this week's puzzles?
 
 Additionally, consider how responses can include your interpretation of in-game quotes from audio recorders and how these quotes might relate to puzzles or ideas from a certain area of The Witness island. Further steps could be taken to research the famous figures behind these audio recorder quotes to learn more about their backgrounds and how their philosophies intertwine with the lessons in this game.
