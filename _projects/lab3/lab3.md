@@ -70,7 +70,13 @@ This part of the island is complete when the final puzzle is solved and the lase
 
 ### Written Response
 
-To received full points for this lab, write a ~1-2 page reflection on what you learned from completing this part of the island. Feel free to use the <span style="color: blue">prompts in blue</span> as a starting point for this response.
+To received full points for this lab, write a 300-word (or more) reflection on what you learned from completing this part of the island.
+
+As you reflect on your experiences in The Witness from this week, alongside class discussion, lecture, and readings, consider including responses to the <span style="color: blue">prompts in blue</span> as a starting point, as well as your own thoughts, questions, observations, and connections.
+
+Consider including in your responses observations on the puzzle mechanics and game design of the environment in this week's section of puzzles. What interesting environmental clues and insights did you uncover in this area of the game? What lessons, or creative discoveries, from previous island sections may have helped or hindered your completion of this week's challenges, and in what way did they effect your understanding of this week's puzzles?
+
+Additionally, consider how responses can include your interpretation of in-game quotes from audio recorders and how these quotes might relate to puzzles or ideas from a certain area of The Witness island. Further steps could be taken to research the famous figures behind these audio recorder quotes to learn more about their backgrounds and how their philosophies intertwine with the lessons in this game.
 
 ### Secret Puzzles
 

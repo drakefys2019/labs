@@ -61,3 +61,66 @@ function collapseExcerpt2() {
     x.style.display = "block";
   }
 }
+
+function collapseChestMap() {
+  var x = document.getElementById("chestmap");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+
+function collapseChest1() {
+  var x = document.getElementById("chest1");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+
+function collapseChest2() {
+  var x = document.getElementById("chest2");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+
+function collapseChest3() {
+  var x = document.getElementById("chest3");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+
+function collapseChest4() {
+  var x = document.getElementById("chest4");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+
+function collapseChest5() {
+  var x = document.getElementById("chest5");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+
+function collapseChest6() {
+  var x = document.getElementById("chest6");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
