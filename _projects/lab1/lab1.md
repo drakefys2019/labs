@@ -200,12 +200,24 @@ This part of the island is complete when the final puzzle is solved and the lase
 
 ![Image B5](captures/capture_B5.jpg#capture)
 
-### Written Response
+### Journal Assignment
 
-To received full points for this lab, write a 300-word (or more) reflection on what you learned from completing this part of the island.
+Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Your journal entry must include discussions on at least (2) of the following:
 
-As you reflect on your experiences in The Witness from this week, alongside class discussion, lecture, and readings, consider including responses to the <span style="color: blue">prompts in blue</span> as a starting point, as well as your own thoughts, questions, observations, and connections.
+- ##### Any one of the <span style="color: blue">blue prompts</span> from this lab
+- ##### Something that you found confusing
+- ##### A discovery you made about the nature of the island
+- ##### An "aha!" moment you had while solving any of the puzzles
+- ##### Do you have a theory on what the purpose of this game is? Explain it.
+- ##### Describe an aspect of the environment that improved your understanding of the puzzles.
+- ##### Are any of the audio logs meaningful to you? If yes, explain why.
+
+**Final Journal Requirement:**
+
+Discuss the solution to a particular puzzle that challenged you. How does this puzzle work? If it helps, feel free to include a screenshot or sketch of the puzzle.
+
+<!-- As you reflect on your experiences in The Witness from this week, alongside class discussion, lecture, and readings, consider including responses to the <span style="color: blue">prompts in blue</span> as a starting point, as well as your own thoughts, questions, observations, and connections.
 
 Contemplate including in your responses observations on the puzzle mechanics and game design of the environment in this week's section of puzzles. What interesting environmental clues and insights did you uncover in this area of the game? What lessons, or creative discoveries from previous island sections may have helped or hindered your completion of this week's challenges, and in what way did they effect your understanding of this week's puzzles?
 
-Additionally, consider how responses can include your interpretation of in-game quotes from audio recorders and how these quotes might relate to puzzles or ideas from a certain area of The Witness island. Further steps could be taken to research the famous figures behind these audio recorder quotes to learn more about their backgrounds and how their philosophies intertwine with the lessons in this game.
+Additionally, consider how responses can include your interpretation of in-game quotes from audio recorders and how these quotes might relate to puzzles or ideas from a certain area of The Witness island. Further steps could be taken to research the famous figures behind these audio recorder quotes to learn more about their backgrounds and how their philosophies intertwine with the lessons in this game. -->
