@@ -42,23 +42,24 @@ Approachable from The Jungle or The Monastery, solve this puzzle door to gain ac
 
 ![Chest 3 Image](captures/Chest 3-The Monastery.png#capture)
 
-### Chest 4: EndGame
+### Chest 4: Shipwreck
+
+Carefully maneuver through the rusted remains of the Shipwreck until you reach the lowest portion of the wreckage. A puzzle-door, lit by an ominous red light, leads to the fourth chest.
+
+![Chest 4 Image](captures/Chest 4-Shipwreck.png#capture)
+
+### Chest 5: The Mountain
+
+Curve up the side of The Mountain until you reach a white hallway cut into the side. Walk down this hallway to discover the fifth chest, hidden behind a puzzle-door.
+
+![Chest 5 Image](captures/Chest 5-The Mountain.png#capture)
+
+### Chest 6: EndGame
 
 This chest is only accessible once you complete the game. Keep going!
 
-![Chest 4 Image](captures/Chest 4-EndGame.png#capture)
+![Chest 6 Image](captures/Chest 6-EndGame.png#capture)
 
-### Chest 5: Shipwreck
-
-Carefully maneuver through the rusted remains of the Shipwreck until you reach the lowest portion of the wreckage. A puzzle-door, lit by an ominous red light, leads to the fifth chest.
-
-![Chest 5 Image](captures/Chest 5-Shipwreck.png#capture)
-
-### Chest 6: The Mountain
-
-Curve up the side of The Mountain until you reach a white hallway cut into the side. Walk down this hallway to discover the sixth chest, hidden behind a puzzle-door.
-
-![Chest 6 Image](captures/Chest 6-The Mountain.png#capture)
 
 ## The Movie Theater
 
