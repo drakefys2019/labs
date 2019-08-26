@@ -40,7 +40,7 @@ Consider the first puzzle in this area, locked behind the entrance.
 ### Obstructions
 Centered in the front section of the monastery's interior, a well-tended Bonsai tree grows serenely.
 
-<span style="color: blue">What simple lesson this puzzle attempt to communicate to the player?</span>
+<span style="color: blue">What simple lesson does this puzzle attempt to communicate to the player?</span>
 
 ![Image 2](captures/capture_2.jpg#capture)
 
@@ -59,7 +59,7 @@ After manipulating the East-facing wall of the monastery, an audio log will be r
 Ibn 'Arabi
 </div>
 
-<span style="color: blue">How might a change in your perception reveal pre-existing problems in the environment? Does your perception of the environment generate problems to be solved?</span>
+<span style="color: blue">How might a change in your perception of the environment reveal new problems to be solved?</span>
 
 ![Audio Log 1](captures/audio_log_1.jpg#capture)
 
@@ -68,11 +68,11 @@ This part of the island is complete when the final puzzle is solved and the lase
 
 ![Laser Capture Image](captures/laser_capture.jpg#capture)
 
-### Secret Puzzles
+<!-- ### Secret Puzzles
 
 Where might this hidden path lead us?
 
-![Mystery Puzzle Capture](captures/mystery_puzzle.jpg#capture)
+![Mystery Puzzle Capture](captures/mystery_puzzle.jpg#capture) -->
 
 ### Journal Assignment
 

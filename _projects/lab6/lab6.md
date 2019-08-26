@@ -91,13 +91,14 @@ Richard Feynman
 
 This part of the island is complete when the final puzzle is solved and the laser fires into the sky. Nice work!
 
+![Laser Capture Image](captures/laser_capture.jpg#capture)
+
 ### Bonus Puzzle
 
 ![Bonus Puzzle](captures/bonus_puzzle.jpg#capture)
 
 <span style="color: blue">What might the yellow arrow symbol mean in the context of this puzzle?</span>
 
-![Laser Capture Image](captures/laser_capture.jpg#capture)
 
 ### Journal Assignment
 

@@ -11,7 +11,7 @@ dependencies:
 ![Header Image 1](captures/header.jpg#header)
 # Shady Trees
 
-Across the lake from the monastery, sun-rays cut through a patch of shady trees, offering puzzling displays of light and shadow.
+Across the lake from the monastery, rays of filtered sunlight cut through a patch of shaded trees, offering puzzling displays of luminance and shadow.
 
 ## <center>You Are Here</center>
 
@@ -23,11 +23,13 @@ The area's section of puzzles begins just beyond this rusty, orange door.
 
 ![Starting Point Image](captures/starting_point.jpg#capture)
 
+<span style="color:blue"> What similarities do you observe between the layout of this door panel and the layout of the puzzles in this area? </span>
+
 ### Key Insights
 
-| [How Puzzling](#how-puzzling) | [Perspective](#perspective) |
+| [How Puzzling](#how-puzzling) | [Mirrored Lessons](#mirrored-lessons) |[Perspective](#perspective) |
 |:-:|:-:|
-|![Thumbnail 1](captures/capture_1.jpg#thumbnail)| ![Thumbnail 2](captures/capture_2.jpg#thumbnail)|
+|![Thumbnail 1](captures/capture_1.jpg#thumbnail)| ![Thumbnail 2](captures/capture_2.jpg#thumbnail)| ![Thumbnail 3](captures/capture_3.jpg#thumbnail)|
 
 ### Audio Logs
 
@@ -38,20 +40,22 @@ The area's section of puzzles begins just beyond this rusty, orange door.
 
 ### How Puzzling
 What do you find peculiar about this puzzle?
-<br><br>
-![Image Capture 3](captures/capture_3.jpg#capture) <br>
-The other portion deals with scattered light.
+![Image Capture 1](captures/capture_1.jpg#capture)
 
-![Capture Image 1](captures/capture_1.jpg#capture)
+<span style="color:blue"> What techniques might you use to study the relationship between this puzzle and its immediate surroundings?
 
-<span style="color: blue">Do lessons from one side of this area give insight into the solutions of the other side?</span>
+### Mirrored Lessons
+
+![Capture Image 2](captures/capture_2.jpg#capture)
+
+<span style="color: blue">Do lessons from one side of Shady Trees give insight into the solutions of the other side?</span>
 
 ### Perspective
 When solving these puzzles, consider your position in the environment, and your view of the puzzle screen.
 
-<span style="color: blue">How might you change your perspective to gain insight into the puzzle solutions?</span>
+![Capture Image 3](captures/capture_3.jpg#capture)
 
-![Capture Image 2](captures/capture_2.jpg#capture)
+<span style="color: blue">How might you change your perspective to gain insight into the puzzle solutions?</span>
 
 
 ### [David Darling, 1996](http://www.daviddarling.info/)

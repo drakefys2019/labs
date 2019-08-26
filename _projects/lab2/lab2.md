@@ -32,12 +32,12 @@ Consider these aspects of the desert ruins:
 
 
 ### Catching Reflected Light
-As you traverse the desert ruins, consider how the Sun reflects brightly off various surfaces. What role might this effect play in any of this area's puzzles?
+As you traverse the desert ruins, consider how the Sun reflects brightly off various surfaces.
 
 <span style="color: blue"></span>
 
 ![Image 1](captures/capture_1-1.jpg#capture)
-
+What role might this effect play in any of this area's puzzles?
 ![Image 2](captures/capture_1-2.jpg#capture)
 
 
