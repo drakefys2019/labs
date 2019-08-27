@@ -21,9 +21,9 @@ Consider these aspects of the desert ruins:
 
 ### Key Insights
 
-| [Catching Reflected Light](#catching-reflected-light) | [Controlling Machinery](#controlling-machinery) |
-|:-:|:-:|
-|![Thumbnail 1](captures/capture_1-1.jpg#thumbnail)| ![Thumbnail 2](captures/capture_2.jpg#thumbnail)|
+| [Catching Reflected Light](#catching-reflected-light) | [Controlling Machinery](#controlling-machinery) | [Limited Light](#limited-light) | [Obstructions](#obstructions) |
+|:-:|:-:|:-:|:-:|
+|![Thumbnail 1](captures/capture_1-1.jpg#thumbnail)| ![Thumbnail 2](captures/capture_2.jpg#thumbnail)| ![Thumbnail 3](captures/capture_3.jpg#thumbnail)| ![Thumbnail 4](captures/capture_4.jpg#thumbnail)|
 
 ### Audio Logs
 
@@ -97,6 +97,17 @@ Albert Einstein, 1930
 
 
 ![Audio Log 1](captures/audio_log_1.jpg#capture)
+
+### Limited Light
+
+Journey down into the depths of the ruins, leaving behind the scorched sands above.
+![Image 3](captures/capture_3.jpg#capture)
+<span style="color:blue">How does your approach to these puzzles change when the light source is limited?</span>
+
+### Obstructions
+
+![Image 4](captures/capture_4.jpg#capture)
+<span style="color:blue">What lesson do you think this puzzle is attempting to convey?</span>
 
 ### Completing The Island
 This part of the island is complete when the final puzzle is solved and the laser fires into the sky. Nice work!
