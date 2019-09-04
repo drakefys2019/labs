@@ -209,6 +209,8 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
   - ##### [Material](#material)
   - ##### [Intuition](#intuition)
   - ##### [Bonus Puzzle](#bonus-puzzle)
+  - ##### [Perspective](#perspective)
+  - ##### [Reflection](#reflection)
 - ##### **A Puzzling Puzzle**
   - ##### After reflecting on a puzzle in this area, what was most confusing about it and why? Are there still aspects of the puzzle you don't understand? Explain.
   - ##### How did it feel to be confused?
