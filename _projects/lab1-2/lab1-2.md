@@ -147,7 +147,7 @@ Nicholas of Cusa, 1453
 
 Just after passing through the second gate on the island hang left to find a side-path to a shaded area, and an audiotape resting on the ground.
 
-<span style="color: blue">After listening to the tape, write down a brief reflection in response to what you heard.</span>
+<!-- <span style="color: blue">After listening to the tape, write down a brief reflection in response to what you heard.</span> -->
 
 <button onclick="collapseExcerpt2()">View Excerpt</button>
 
