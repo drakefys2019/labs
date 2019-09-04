@@ -216,7 +216,7 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
   - ##### Did you have an "Aha!" moment while you were attempting to solve any particular puzzle? Describe the moment when you finally figured it out.
   - ##### How do you think other puzzles in the area informed your approach to solving this one?
   - ##### How has your perception and understanding of the puzzle changed once you found the solution?
-- ##### **The Nature of The Game**
+- ##### **The Purpose of The Game**
   - ##### Do you have a theory on what the purpose of this game is? Explain it.
   - ##### Why are you here?
   - ##### What lessons have you taken away from playing this game so far?
