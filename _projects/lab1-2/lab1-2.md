@@ -204,25 +204,18 @@ This part of the island is complete when the final puzzle is solved and the lase
 
 Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Your journal entry must include discussions on at least (1) of the following:
 
-- ##### **Lab <span style="color: blue">Blue Prompts</span>**
-  - ##### [Balance](#balance)
-  - ##### [Material](#material)
-  - ##### [Intuition](#intuition)
-  - ##### [Bonus Puzzle](#bonus-puzzle)
-  - ##### [Perspective](#perspective)
-  - ##### [Reflection](#reflection)
 - ##### **A Puzzling Puzzle**
   - ##### After reflecting on a puzzle in this area, what was most confusing about it and why? Are there still aspects of the puzzle you don't understand? Explain.
-  - ##### How did it feel to be confused?
-  - ##### What approaches or techniques did you use to further your understanding of the puzzle?
+  - ##### What approaches or techniques did you use to improve your understanding of the puzzle?
+  - ##### Describe the feelings you experienced as you worked through your confusion to ultimately solve the puzzle.
 - ##### **Discovering The Nature of The Island**
   - ##### What other signs of life or existence did you discover in this area that give clues to the nature of the island? Explain.
-  - ##### Reflect on a part of the environment you found beautiful or strange. What specifically about this element captured your attention? If it helps, you may include a screenshot here in addition (not substitution) to your written work.
+  - ##### Reflect on a part of the environment you found beautiful or strange. Why did it capture your attention? If it helps, you may include a screenshot here in addition (not substitution) to your written work.
   <!-- - ##### -->
 - ##### **Experiencing An "Aha!" Moment**
-  - ##### What did it feel like when you finally solved it?
-  - ##### How do you think other puzzles in the area informed your approach to this one?
-  - ##### How has your perception and understanding of the puzzle changed once you've found the solution?
+  - ##### Did you have an "Aha!" moment while you were attempting to solve any particular puzzle? Describe the moment when you finally figured it out.
+  - ##### How do you think other puzzles in the area informed your approach to solving this one?
+  - ##### How has your perception and understanding of the puzzle changed once you found the solution?
 - ##### **The Nature of The Game**
   - ##### Do you have a theory on what the purpose of this game is? Explain it.
   - ##### Why are you here?
@@ -232,15 +225,15 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
   - ##### In what way did the environment assist you in understanding the nature of a given puzzle?
   - ##### How might the environment reflect properties of a puzzle or puzzles?
   - ##### How might this area's puzzles reflect aspects of the environment?
-  - ##### Does the environment play a part in solving theses puzzles? If yes, explain the environment's role in this area, and how you discovered it.
+  - ##### Does the environment play a part in solving these puzzles? Explain the environment's role in this area, and how you discovered it.
 - ##### **Audio Log Reflections**
-  - ##### Respond to the content of an audio log in this area. In your own words, explain the message behind the content of the log. What is the speaker trying to say? Do you agree?
-  - ##### Why do you think these audio log(s) were chosen for this location in the game?
-  - ##### What role do the audio log(s) play specifically in this puzzle location?
+  - ##### Respond to the content of an audio log in this area. In your own words, explain the message behind the content of the log. What is the speaker trying to say? Do you agree with him or her?
+  - ##### Why do you think these audio log(s) were chosen for this location of the game?
+  - ##### In what way do the audio log(s) relate to the puzzles in this area?
 
 **Final Journal Requirement:**
 
-Discuss the solution to a particular puzzle that challenged you. Explain the mechanics of this puzzle  in detail and how you came to understand them. If it helps, feel free to include screenshots or sketches of the puzzle.
+After responding to one of the items above, discuss the solution to a particular puzzle that challenged you. Explain the mechanics of this puzzle  in detail and how you came to understand them. If it helps, feel free to include screenshots or sketches of the puzzle.
 
 <!-- As you reflect on your experiences in The Witness from this week, alongside class discussion, lecture, and readings, consider including responses to the <span style="color: blue">prompts in blue</span> as a starting point, as well as your own thoughts, questions, observations, and connections.
 
