@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  "LAB 1"
 date:   2019-05-06
@@ -6,7 +6,7 @@ thumbnail: captures/header_A.jpg
 dependencies:
 - helpers
 
----
+--- -->
 
 
 ![Header Image 1](captures/header_A.jpg#header)
@@ -29,28 +29,28 @@ Consider these aspects of the factory environment:
 ### Balance
 Upon completing the factory door puzzle you enter into a room containing vase-like objects on pedestals.
 
-<span style="color: blue">Group Discussion: What do you notice about the relationships between these objects? As you complete the puzzles in the glass factory, consider the similarities between the symmetry of the control lines, and the symmetry in the forms of these objects.</span>
+<span style="color: blue">What do you notice about the relationships between these objects? As you complete the puzzles in the glass factory, consider the similarities between the symmetry of the control lines, and the symmetry in the forms of these objects.</span>
 
 ![Capture Image 1A](captures/capture_A1.jpg#capture)
 
 ### Material
 Observe how the tint of the glass plate affects the color of the sky in this shot.
 
-<span style="color: blue">Group Discussion: Are there other elements in the environment that seem to affect their surroundings?</span>
+<span style="color: blue">Are there other elements in the environment that seem to affect their surroundings?</span>
 
 ![Capture Image 2A](captures/capture_A2.jpg#capture)
 
 ### Intuition
 As you complete this section of the factory, consider how the melted glass affects your ability to solve the puzzle.
 
-<span style="color: blue">Group Discussion: Did you change your problem-solving technique as the glass grew progressively distorted? If so, what did you do differently to solve it?</span>
+<span style="color: blue">Did you change your problem-solving technique as the glass grew progressively distorted? If so, what did you do differently to solve it?</span>
 
 ![Capture Image 3A](captures/capture_A3.jpg#capture)
 
 ### Bonus Puzzle
 This secret puzzle can be found tucked away on the roof of the factory.
 
-<span style="color: blue">Group Discussion: I wonder what simple lesson this puzzle is trying to convey...</span>
+<span style="color: blue">I wonder what simple lesson this puzzle is trying to convey...</span>
 
 ![Bonus Puzzle Image](captures/capture_A4.jpg#capture)
 
@@ -77,14 +77,14 @@ Once you've completed the glass factory, follow the powered cord to Symmetry Isl
 ### Perspective
 Many of the puzzles on Symmetry Island require you to re-orient your view of the environment in order to decipher the solution.
 
-<span style="color: blue">Group Discussion: What strategies do you use to solve the puzzles when the solution is hidden from view?</span>
+<span style="color: blue">What strategies do you use to solve the puzzles when the solution is hidden from view?</span>
 
 ![Image B2](captures/capture_B2.jpg#capture)
 
 ### Reflection
 Reflection and symmetry play very important roles in many of the puzzles on this island.
 
-<span style="color: blue">Group Discussion: When solving puzzles with symmetric control-lines, do you try to solve for one line at a time, or both simultaneously? Do you consider one control-line the original, and the other its reflection?</span>
+<span style="color: blue">When solving puzzles with symmetric control-lines, do you try to solve for one line at a time, or both simultaneously? Do you consider one control-line the original, and the other its reflection?</span>
 
 ![Image B3](captures/capture_B3.jpg#capture)
 
@@ -147,7 +147,7 @@ Nicholas of Cusa, 1453
 
 Just after passing through the second gate on the island hang left to find a side-path to a shaded area, and an audiotape resting on the ground.
 
-<!-- <span style="color: blue">Group Discussion: After listening to the tape, write down a brief reflection in response to what you heard.</span> -->
+<span style="color: blue">After listening to the tape, write down a brief reflection in response to what you heard.</span>
 
 <button onclick="collapseExcerpt2()">View Excerpt</button>
 
@@ -202,38 +202,19 @@ This part of the island is complete when the final puzzle is solved and the lase
 
 ### Journal Assignment
 
-Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Your journal entry must include discussions on at least (1) of the following:
+Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Your journal entry must include discussions on at least (2) of the following:
 
-- ##### **A Puzzling Puzzle**
-  - ##### After reflecting on a puzzle in this area, what was most confusing about it and why? Are there still aspects of the puzzle you don't understand? Explain.
-  - ##### What approaches or techniques did you use to improve your understanding of the puzzle?
-  - ##### Describe the feelings you experienced as you worked through your confusion to ultimately solve the puzzle.
-- ##### **Discovering The Nature of The Island**
-  - ##### What other signs of life or existence did you discover in this area that give clues to the nature of the island? Explain.
-  - ##### Reflect on a part of the environment you found beautiful or strange. Why did it capture your attention? If it helps, you may include a screenshot here in addition (not substitution) to your written work.
-  <!-- - ##### -->
-- ##### **Experiencing An "Aha!" Moment**
-  - ##### Did you have an "Aha!" moment while you were attempting to solve any particular puzzle? Describe the moment when you finally figured it out.
-  - ##### How do you think other puzzles in the area informed your approach to solving this one?
-  - ##### How has your perception and understanding of the puzzle changed once you found the solution?
-- ##### **The Nature of The Game**
-  - ##### Do you have a theory on what the purpose of this game is? Explain it.
-  - ##### Why are you here?
-  - ##### What lessons have you taken away from playing this game so far?
-- ##### **Environmental Entwinement**
-  - ##### Describe an aspect of the environment that improved your understanding of the puzzles.
-  - ##### In what way did the environment assist you in understanding the nature of a given puzzle?
-  - ##### How might the environment reflect properties of a puzzle or puzzles?
-  - ##### How might this area's puzzles reflect aspects of the environment?
-  - ##### Does the environment play a part in solving these puzzles? Explain the environment's role in this area, and how you discovered it.
-- ##### **Audio Log Reflections**
-  - ##### Respond to the content of an audio log in this area. In your own words, explain the message behind the content of the log. What is the speaker trying to say? Do you agree with him or her?
-  - ##### Why do you think these audio log(s) were chosen for this location of the game?
-  - ##### In what way do the audio log(s) relate to the puzzles in this area?
+- ##### Any one of the <span style="color: blue">blue prompts</span> from this lab
+- ##### Something that you found confusing
+- ##### A discovery you made about the nature of the island
+- ##### An "aha!" moment you had while solving any of the puzzles
+- ##### Do you have a theory on what the purpose of this game is? Explain it.
+- ##### Describe an aspect of the environment that improved your understanding of the puzzles.
+- ##### Are any of the audio logs meaningful to you? If yes, explain why.
 
 **Final Journal Requirement:**
 
-After responding to one of the items above, discuss the solution to a particular puzzle that challenged you. Explain the mechanics of this puzzle  in detail and how you came to understand them. If it helps, feel free to include screenshots or sketches of the puzzle.
+Discuss the solution to a particular puzzle that challenged you. How does this puzzle work? If it helps, feel free to include a screenshot or sketch of the puzzle.
 
 <!-- As you reflect on your experiences in The Witness from this week, alongside class discussion, lecture, and readings, consider including responses to the <span style="color: blue">prompts in blue</span> as a starting point, as well as your own thoughts, questions, observations, and connections.
 
