@@ -29,28 +29,28 @@ Consider these aspects of the factory environment:
 ### Balance
 Upon completing the factory door puzzle you enter into a room containing vase-like objects on pedestals.
 
-<span style="color: blue">What do you notice about the relationships between these objects? As you complete the puzzles in the glass factory, consider the similarities between the symmetry of the control lines, and the symmetry in the forms of these objects.</span>
+<span style="color: blue">Group Discussion: What do you notice about the relationships between these objects? As you complete the puzzles in the glass factory, consider the similarities between the symmetry of the control lines, and the symmetry in the forms of these objects.</span>
 
 ![Capture Image 1A](captures/capture_A1.jpg#capture)
 
 ### Material
 Observe how the tint of the glass plate affects the color of the sky in this shot.
 
-<span style="color: blue">Are there other elements in the environment that seem to affect their surroundings?</span>
+<span style="color: blue">Group Discussion: Are there other elements in the environment that seem to affect their surroundings?</span>
 
 ![Capture Image 2A](captures/capture_A2.jpg#capture)
 
 ### Intuition
 As you complete this section of the factory, consider how the melted glass affects your ability to solve the puzzle.
 
-<span style="color: blue">Did you change your problem-solving technique as the glass grew progressively distorted? If so, what did you do differently to solve it?</span>
+<span style="color: blue">Group Discussion: Did you change your problem-solving technique as the glass grew progressively distorted? If so, what did you do differently to solve it?</span>
 
 ![Capture Image 3A](captures/capture_A3.jpg#capture)
 
 ### Bonus Puzzle
 This secret puzzle can be found tucked away on the roof of the factory.
 
-<span style="color: blue">I wonder what simple lesson this puzzle is trying to convey...</span>
+<span style="color: blue">Group Discussion: I wonder what simple lesson this puzzle is trying to convey...</span>
 
 ![Bonus Puzzle Image](captures/capture_A4.jpg#capture)
 
@@ -77,14 +77,14 @@ Once you've completed the glass factory, follow the powered cord to Symmetry Isl
 ### Perspective
 Many of the puzzles on Symmetry Island require you to re-orient your view of the environment in order to decipher the solution.
 
-<span style="color: blue">What strategies do you use to solve the puzzles when the solution is hidden from view?</span>
+<span style="color: blue">Group Discussion: What strategies do you use to solve the puzzles when the solution is hidden from view?</span>
 
 ![Image B2](captures/capture_B2.jpg#capture)
 
 ### Reflection
 Reflection and symmetry play very important roles in many of the puzzles on this island.
 
-<span style="color: blue">When solving puzzles with symmetric control-lines, do you try to solve for one line at a time, or both simultaneously? Do you consider one control-line the original, and the other its reflection?</span>
+<span style="color: blue">Group Discussion: When solving puzzles with symmetric control-lines, do you try to solve for one line at a time, or both simultaneously? Do you consider one control-line the original, and the other its reflection?</span>
 
 ![Image B3](captures/capture_B3.jpg#capture)
 
@@ -147,7 +147,7 @@ Nicholas of Cusa, 1453
 
 Just after passing through the second gate on the island hang left to find a side-path to a shaded area, and an audiotape resting on the ground.
 
-<!-- <span style="color: blue">After listening to the tape, write down a brief reflection in response to what you heard.</span> -->
+<!-- <span style="color: blue">Group Discussion: After listening to the tape, write down a brief reflection in response to what you heard.</span> -->
 
 <button onclick="collapseExcerpt2()">View Excerpt</button>
 
