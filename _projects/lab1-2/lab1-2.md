@@ -200,7 +200,7 @@ This part of the island is complete when the final puzzle is solved and the lase
 
 ![Image B5](captures/capture_B5.jpg#capture)
 
-### Journal Assignment
+### The Witness Journal Entry #1
 
 Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Your journal entry must include discussions on at least (1) of the following:
 
