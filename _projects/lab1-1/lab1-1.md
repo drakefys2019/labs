@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  "LAB 1"
 date:   2019-05-06
@@ -6,7 +6,7 @@ thumbnail: captures/header_A.jpg
 dependencies:
 - helpers
 
----
+--- -->
 
 
 ![Header Image 1](captures/header_A.jpg#header)

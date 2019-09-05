@@ -19,8 +19,9 @@ description: > # this means to ignore newlines until "baseurl:"
   A collection of labs designed to guide students through The Witness videogame.
 baseurl: "/labs" # the subpath of your site, e.g. /blog
 url: "http://drakefys2019.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: codyryandesign
-# github_username: codyryandesign
+# twitter_username:
+# github_username: drakefys2019
+google_analytics: UA-147172303-1
 
 # Build settings
 markdown: kramdown
