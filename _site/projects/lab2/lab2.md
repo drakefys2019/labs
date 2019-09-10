@@ -7,7 +7,7 @@ dependencies:
 - helpers
 --- -->
 
-
+# **The Witness: Lab 02**
 ![Header Image 1](captures/header.jpg#header)
 # Desert Ruins
 
@@ -34,10 +34,8 @@ Consider these aspects of the desert ruins:
 ### Catching Reflected Light
 As you traverse the desert ruins, consider how the Sun reflects brightly off various surfaces.
 
-<span style="color: blue"></span>
-
 ![Image 1](captures/capture_1-1.jpg#capture)
-What role might this effect play in any of this area's puzzles?
+<span style="color: blue">Group Discussion: What role might this effect play in any of this area's puzzles?</span>
 ![Image 2](captures/capture_1-2.jpg#capture)
 
 
@@ -92,7 +90,7 @@ are the only profoundly religious people."
 Albert Einstein, 1930
 </div>
 
-<span style="color: blue">Consider how this excerpt may reflect the nature of the puzzles and environment in this section of the island.</span>
+<span style="color: blue">Group Discussion: Consider how this excerpt may reflect the nature of the puzzles and environment in this section of the island.</span>
 
 
 
@@ -102,36 +100,49 @@ Albert Einstein, 1930
 
 Journey down into the depths of the ruins, leaving behind the scorched sands above.
 ![Image 3](captures/capture_3.jpg#capture)
-<span style="color:blue">How does your approach to these puzzles change when the light source is limited?</span>
+<span style="color:blue">Group Discussion: How does your approach to these puzzles change when the light source is limited or unavailable?</span>
 
 ### Obstructions
 
 ![Image 4](captures/capture_4.jpg#capture)
-<span style="color:blue">What lesson do you think this puzzle is attempting to convey?</span>
+<span style="color:blue">Group Discussion: What lesson(s) did you learn from completing this puzzle?</span>
 
 ### Completing The Island
 This part of the island is complete when the final puzzle is solved and the laser fires into the sky. Nice work!
 
 ![Laser Capture Image](captures/laser_capture.jpg#capture)
 
-### Journal Assignment
+### The Witness Journal Entry #2
 
-Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Your journal entry must include discussions on at least (2) of the following:
+Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Your journal entry must include discussions on at least (1) of the following:
 
-- ##### Any one of the <span style="color: blue">blue prompts</span> from this lab
-- ##### Something that you found confusing
-- ##### A discovery you made about the nature of the island
-- ##### An "aha!" moment you had while solving any of the puzzles
-- ##### Do you have a theory on what the purpose of this game is? Explain it.
-- ##### Describe an aspect of the environment that improved your understanding of the puzzles.
-- ##### Are any of the audio logs meaningful to you? If yes, explain why.
+- ##### **A Puzzling Puzzle**
+  - ##### After reflecting on a puzzle in this area, what was most confusing about it and why? Are there still aspects of the puzzle you don't understand? Explain.
+  - ##### What approaches or techniques did you use to improve your understanding of the puzzle?
+  - ##### Describe the feelings you experienced as you worked through your confusion to ultimately solve the puzzle.
+- ##### **Discovering The Nature of The Island**
+  - ##### What other signs of life or existence did you discover in this area that give clues to the nature of the island? Explain.
+  - ##### Reflect on a part of the environment you found beautiful or strange. Why did it capture your attention? If it helps, you may include a screenshot here in addition (not substitution) to your written work.
+  <!-- - ##### -->
+- ##### **Experiencing An "Aha!" Moment**
+  - ##### Did you have an "Aha!" moment while you were attempting to solve any particular puzzle? Describe the moment when you finally figured it out.
+  - ##### How do you think other puzzles in the area informed your approach to solving this one?
+  - ##### How has your perception and understanding of the puzzle changed once you found the solution?
+- ##### **The Purpose of The Game**
+  - ##### Do you have a theory on what the purpose of this game is? Explain it.
+  - ##### Why are you here?
+  - ##### What lessons have you taken away from playing this game so far?
+- ##### **Environmental Entwinement**
+  - ##### Describe an aspect of the environment that improved your understanding of the puzzles.
+  - ##### In what way did the environment assist you in understanding the nature of a given puzzle?
+  - ##### How might the environment reflect properties of a puzzle or puzzles?
+  - ##### How might this area's puzzles reflect aspects of the environment?
+  - ##### Does the environment play a part in solving these puzzles? Explain the environment's role in this area, and how you discovered it.
+- ##### **Audio Log Reflections**
+  - ##### Respond to the content of an audio log in this area. In your own words, explain the message behind the content of the log. What is the speaker trying to say? Do you agree with him or her?
+  - ##### Why do you think these audio log(s) were chosen for this location of the game?
+  - ##### In what way do the audio log(s) relate to the puzzles in this area?
 
 **Final Journal Requirement:**
 
-Discuss the solution to a particular puzzle that challenged you. How does this puzzle work? If it helps, feel free to include a screenshot or sketch of the puzzle.
-
-<!-- As you reflect on your experiences in The Witness from this week, alongside class discussion, lecture, and readings, consider including responses to the <span style="color: blue">prompts in blue</span> as a starting point, as well as your own thoughts, questions, observations, and connections.
-
-Contemplate including in your responses observations on the puzzle mechanics and game design of the environment in this week's section of puzzles. What interesting environmental clues and insights did you uncover in this area of the game? What lessons, or creative discoveries from previous island sections may have helped or hindered your completion of this week's challenges, and in what way did they effect your understanding of this week's puzzles?
-
-Additionally, consider how responses can include your interpretation of in-game quotes from audio recorders and how these quotes might relate to puzzles or ideas from a certain area of The Witness island. Further steps could be taken to research the famous figures behind these audio recorder quotes to learn more about their backgrounds and how their philosophies intertwine with the lessons in this game. -->
+After responding to one of the items above, discuss the solution to a particular puzzle that challenged you. Explain the mechanics of this puzzle  in detail and how you came to understand them. If it helps, feel free to include screenshots or sketches of the puzzle.
