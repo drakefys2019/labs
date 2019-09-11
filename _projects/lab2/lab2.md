@@ -1,11 +1,11 @@
-<!-- ---
+---
 layout: post
 title:  "LAB 2"
 date:   2019-05-06
 thumbnail: captures/header.jpg
 dependencies:
 - helpers
---- -->
+---
 
 # **The Witness: Lab 02**
 ![Header Image 1](captures/header.jpg#header)
@@ -34,10 +34,9 @@ Consider these aspects of the desert ruins:
 ### Catching Reflected Light
 As you traverse the desert ruins, consider how the Sun reflects brightly off various surfaces.
 
-![Image 1](captures/capture_1-1.jpg#capture)
-<span style="color: blue">Group Discussion: What role might this effect play in any of this area's puzzles?</span>
+<!-- ![Image 1](captures/capture_1-1.jpg#capture) -->
 ![Image 2](captures/capture_1-2.jpg#capture)
-
+<span style="color: blue">Group Discussion: What role might this effect play in this puzzle environment?</span>
 
 ### Controlling Machinery
 Many of the puzzles in this area can be more easily solved by activating the technology in the environment. Try adjusting this monitor's position by controlling the switch.
@@ -116,28 +115,30 @@ This part of the island is complete when the final puzzle is solved and the lase
 
 Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Your journal entry must include discussions on at least (1) of the following:
 
-- ##### **A Puzzling Puzzle**
-  - ##### After reflecting on a puzzle in this area, what was most confusing about it and why? Are there still aspects of the puzzle you don't understand? Explain.
-  - ##### What approaches or techniques did you use to improve your understanding of the puzzle?
-  - ##### Describe the feelings you experienced as you worked through your confusion to ultimately solve the puzzle.
-- ##### **Discovering The Nature of The Island**
-  - ##### What other signs of life or existence did you discover in this area that give clues to the nature of the island? Explain.
-  - ##### Reflect on a part of the environment you found beautiful or strange. Why did it capture your attention? If it helps, you may include a screenshot here in addition (not substitution) to your written work.
-  <!-- - ##### -->
 - ##### **Experiencing An "Aha!" Moment**
   - ##### Did you have an "Aha!" moment while you were attempting to solve any particular puzzle? Describe the moment when you finally figured it out.
   - ##### How do you think other puzzles in the area informed your approach to solving this one?
   - ##### How has your perception and understanding of the puzzle changed once you found the solution?
-- ##### **The Purpose of The Game**
-  - ##### Do you have a theory on what the purpose of this game is? Explain it.
-  - ##### Why are you here?
-  - ##### What lessons have you taken away from playing this game so far?
-- ##### **Environmental Entwinement**
-  - ##### Describe an aspect of the environment that improved your understanding of the puzzles.
-  - ##### In what way did the environment assist you in understanding the nature of a given puzzle?
-  - ##### How might the environment reflect properties of a puzzle or puzzles?
-  - ##### How might this area's puzzles reflect aspects of the environment?
-  - ##### Does the environment play a part in solving these puzzles? Explain the environment's role in this area, and how you discovered it.
+
+- ##### **Partial Solutions**
+  - ##### In what ways do the puzzles in this area prevent you from seeing the whole solution all at once?
+  - ##### What behavior does this lack of information evoke in you as you attempt to solve these puzzles?
+  - ##### How did you manipulate the state of the environment to improve your chances of finding a puzzle solution?
+
+- ##### **A Puzzling Puzzle**
+  - ##### After reflecting on a puzzle in this area, what was most confusing about it and why? Are there still aspects of the puzzle you don't understand? Explain.
+  - ##### What approaches or techniques did you use to improve your understanding of the puzzle?
+  - ##### Describe the feelings you experienced as you worked through your confusion to ultimately solve the puzzle.
+
+- ##### **Layering Lessons**
+  - ##### Consider each puzzle-floor as you descend further and further into the desert ruins.
+  - ##### Can you identify a specific lesson that each of these floors intends to teach you?
+  - ##### How do lessons from one floor inform your approach to puzzles on other floors?
+
+- ##### **Discovering The Nature of The Island**
+  - ##### What other signs of life or existence did you discover in this area that give clues to the nature of the island? Explain.
+  - ##### Reflect on a part of the environment you found beautiful or strange. Why did it capture your attention? If it helps, you may include a screenshot here in addition (not substitution) to your written work.
+
 - ##### **Audio Log Reflections**
   - ##### Respond to the content of an audio log in this area. In your own words, explain the message behind the content of the log. What is the speaker trying to say? Do you agree with him or her?
   - ##### Why do you think these audio log(s) were chosen for this location of the game?
