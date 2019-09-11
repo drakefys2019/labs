@@ -137,10 +137,6 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
   - ##### Can you identify a specific lesson that each of these floors intends to teach you?
   - ##### How do lessons from one floor inform your approach to puzzles on other floors?
 
-- ##### **Discovering The Nature of The Island**
-  - ##### What other signs of life or existence did you discover in this area that give clues to the nature of the island? Explain.
-  - ##### Reflect on a part of the environment you found beautiful or strange. Why did it capture your attention? If it helps, you may include a screenshot here in addition (not substitution) to your written work.
-
 **Final Journal Requirement:**
 
 After responding to one of the items above, discuss the solution to a particular puzzle that challenged you. Explain the mechanics of this puzzle in detail and how you came to understand them. If it helps, feel free to include screenshots or sketches of the puzzle.
