@@ -139,11 +139,6 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
   - ##### What other signs of life or existence did you discover in this area that give clues to the nature of the island? Explain.
   - ##### Reflect on a part of the environment you found beautiful or strange. Why did it capture your attention? If it helps, you may include a screenshot here in addition (not substitution) to your written work.
 
-- ##### **Audio Log Reflections**
-  - ##### Respond to the content of an audio log in this area. In your own words, explain the message behind the content of the log. What is the speaker trying to say? Do you agree with him or her?
-  - ##### Why do you think these audio log(s) were chosen for this location of the game?
-  - ##### In what way do the audio log(s) relate to the puzzles in this area?
-
 **Final Journal Requirement:**
 
 After responding to one of the items above, discuss the solution to a particular puzzle that challenged you. Explain the mechanics of this puzzle in detail and how you came to understand them. If it helps, feel free to include screenshots or sketches of the puzzle.
