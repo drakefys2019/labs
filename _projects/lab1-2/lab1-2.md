@@ -3,6 +3,7 @@ layout: post
 title:  "LAB 1"
 date:   2019-05-06
 thumbnail: captures/header_A.jpg
+visible: 1
 dependencies:
 - helpers
 

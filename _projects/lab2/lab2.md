@@ -1,11 +1,12 @@
-<!-- ---
+---
 layout: post
 title:  "LAB 2"
 date:   2019-05-06
 thumbnail: captures/header.jpg
+visible: 0
 dependencies:
 - helpers
---- -->
+---
 
 # **The Witness: Lab 02**
 ![Header Image 1](captures/header.jpg#header)
