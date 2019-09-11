@@ -9,7 +9,7 @@ dependencies:
 - helpers
 ---
 
-<h1>{{ post.title }}</h1>
+# **The Witness: Lab 02**
 ![Header Image 1](captures/header.jpg#header)
 # Desert Ruins
 
@@ -136,6 +136,10 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
   - ##### Consider each puzzle-floor as you descend further and further into the desert ruins.
   - ##### Can you identify a specific lesson that each of these floors intends to teach you?
   - ##### How do lessons from one floor inform your approach to puzzles on other floors?
+
+- ##### **Discovering The Nature of The Island**
+  - ##### What other signs of life or existence did you discover in this area that give clues to the nature of the island? Explain.
+  - ##### Reflect on a part of the environment you found beautiful or strange. Why did it capture your attention? If it helps, you may include a screenshot here in addition (not substitution) to your written work.
 
 **Final Journal Requirement:**
 
