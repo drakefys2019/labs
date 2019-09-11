@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "LAB 2"
+title:  "The Witness: Lab 02"
 date:   2019-05-06
 thumbnail: captures/header.jpg
-visible: 0
+visible: false
+<!-- permalink: hidden-lab-2.html -->
 dependencies:
 - helpers
 ---
 
-# **The Witness: Lab 02**
+<h1>{{ post.title }}</h1>
 ![Header Image 1](captures/header.jpg#header)
 # Desert Ruins
 

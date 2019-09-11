@@ -10,7 +10,7 @@ layout: default
         {% for project in projects %}
           <div class="col-lg-4 col-md-4 col-sm-6">
               <a href="{{ project.url | relative_url }}">
-                  {% if project.visible== 1  %}
+                  {% if project.visible  %}
                   <div class="img__wrap">
                   {%if project.thumbnail %}
                     <img class="img__img" src="{{site.baseurl}}/{{ project.url | replace: "/", " " | truncatewords: 2, "" | replace: " ", "/" }}/{{ project.thumbnail }}"></img>
