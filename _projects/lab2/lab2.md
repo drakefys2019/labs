@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Witness: Lab 02"
+title:  "LAB 2"
 date:   2019-05-06
 thumbnail: captures/header.jpg
 visible: true
