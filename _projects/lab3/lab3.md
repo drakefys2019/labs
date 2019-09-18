@@ -89,7 +89,7 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
   - ##### How does this discovery contribute to your understanding of the nature of the game?
 
 - ##### **Recorded Wisdom**
-  - ##### Imagine you are asked to record an audio log for this area in the game.
+  - ##### Imagine you are asked to record an audio log for the monastery section of the island.
   - ##### What piece of advice would you want to pass on to the listener?
   - ##### How would your guidance relate to both the in-game world and the real world?
 
