@@ -3,12 +3,12 @@ layout: post
 title:  "LAB 3"
 date:   2019-05-06
 thumbnail: captures/header.jpg
-visible: true
+visible: false
 dependencies:
 - helpers
 ---
 
-
+# **The Witness: Lab 03**
 ![Header Image 1](captures/header.jpg#header)
 # The Monastery
 
@@ -79,34 +79,28 @@ Where might this hidden path lead us?
 
 Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Your journal entry must include discussions on at least (1) of the following:
 
-- ##### **Experiencing An "Aha!" Moment**
-  - ##### Did you have an "Aha!" moment while you were attempting to solve any particular puzzle? Describe the moment when you finally figured it out.
-  - ##### How do you think other puzzles in the area informed your approach to solving this one?
-  - ##### How has your perception and understanding of the puzzle changed once you found the solution?
-
-- ##### **Partial Solutions**
-  - ##### In what ways do the puzzles in this area prevent you from seeing the whole solution all at once?
-  - ##### What behavior does this lack of information evoke in you as you attempt to solve these puzzles?
-  - ##### How did you manipulate the state of the environment to improve your chances of finding a puzzle solution?
-
-- ##### **A Puzzling Puzzle**
-  - ##### After reflecting on a puzzle in this area, what was most confusing about it and why? Are there still aspects of the puzzle you don't understand? Explain.
-  - ##### What approaches or techniques did you use to improve your understanding of the puzzle?
-  - ##### Describe the feelings you experienced as you worked through your confusion to ultimately solve the puzzle.
-
-- ##### **Layering Lessons**
-  - ##### Consider each puzzle-floor as you descend further and further into the desert ruins.
-  - ##### Can you identify a specific lesson that each of these floors intends to teach you?
-  - ##### How do lessons from one floor inform your approach to puzzles on other floors?
+- ##### **Lesson Learned**
+  - ##### Can you identify the main lesson the monastery attempts to teach you?
+  - ##### Did you learn something during the play through of this area that would have helped your understanding of a previous area?
 
 - ##### **Unseen, Unsolved**
   - ##### Report on a "secret" you discovered in this area that wasn't mentioned in this guide or during class. How did you discover this secret? Feel free to include screenshots or sketches in addition--not substitution--to your written response.
   - ##### Discuss your thought process in the moments leading up to and during this discovery.
   - ##### How does this discovery contribute to your understanding of the nature of the game?
 
-- ##### **Discovering The Nature of The Island**
-  - ##### What other signs of life or existence did you discover in this area that give clues to the nature of the island? Explain.
-  - ##### Reflect on a part of the environment you found beautiful or strange. Why did it capture your attention? If it helps, you may include a screenshot here in addition (not substitution) to your written work.
+- ##### **Recorded Wisdom**
+  - ##### Imagine you are asked to record an audio log for this area in the game.
+  - ##### What piece of advice would you want to pass on to the listener?
+  - ##### How would your guidance relate to both the in-game world and the real world?
+
+- ##### **Iconography Identified**
+  - ##### Discuss your understanding of a symbol present in a puzzle in this area.
+  - ##### When you see this symbol, what does it imply about the puzzle?
+
+- ##### **Variations on A Theme**
+  - ##### Briefly summarize your personal route through the monastery.
+  - ##### Do you think the puzzles in this area could have been solved differently or in a different order? Explain.
+  - ##### In your opinion, is there an ideal way to solve this area?
 
 **Final Journal Requirement:**
 
