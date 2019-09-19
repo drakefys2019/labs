@@ -75,7 +75,7 @@ Where might this hidden path lead us?
 
 ![Mystery Puzzle Capture](captures/mystery_puzzle.jpg#capture) -->
 
-### The Witness Journal Entry #2
+### The Witness Journal Entry #3
 
 Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Choose one of the prompts below (either 1, 2, 3, or 4) to respond to in your journal entry.
 
