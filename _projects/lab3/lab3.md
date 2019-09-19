@@ -53,7 +53,7 @@ After manipulating the East-facing wall of the monastery, an audio log will be r
 
 <div id="excerpt1" style="display:none">
 
-"Acts of perception attach themselves only to veils, which leave traces in the owner of the eye that perceives them."
+"There is nothing in existence but veils hung down. Acts of perception attach themselves only to veils, which leave traces in the owner of the eye that perceives them."
 <br>
 ---
 <br>
@@ -93,11 +93,7 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
   - ##### What piece of advice would you want to pass on to the listener?
   - ##### How would your guidance relate to both the in-game world and the real world?
 
-4. ##### **Iconography Identified**
-  - ##### Discuss your understanding of a symbol present in a puzzle in this area.
-  - ##### When you see this symbol, what does it imply about the puzzle?
-
-5. ##### **Variations on A Theme**
+4. ##### **Variations on A Theme**
   - ##### Briefly summarize your personal route through the monastery.
   - ##### Do you think the puzzles in this area could have been solved differently or in a different order? Explain.
   - ##### In your opinion, is there an ideal way to solve this area?
