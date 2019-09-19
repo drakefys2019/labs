@@ -18,7 +18,7 @@ Centered in the Southern section of the island, a zen monastery offers puzzling 
 
 ![Witness Map Lab 1](captures/Witness_Map_Lab3.jpg#capture)
 
-Consider these aspects of the factory environment:
+Consider these aspects of the monastery environment:
 
 ### Key Insights
 
@@ -79,7 +79,7 @@ Where might this hidden path lead us?
 
 Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Your journal entry must include discussions on at least (1) of the following:
 
-- ##### **Lesson Learned**
+- 1 **Lesson Learned**
   - ##### Can you identify the main lesson the monastery attempts to teach you?
   - ##### Did you learn something during the play through of this area that would have helped your understanding of a previous area?
 
