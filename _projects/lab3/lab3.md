@@ -79,7 +79,7 @@ Where might this hidden path lead us?
 
 Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Your journal entry must include discussions on at least (1) of the following:
 
-- 1 **Lesson Learned**
+1. ##### **Lesson Learned**
   - ##### Can you identify the main lesson the monastery attempts to teach you?
   - ##### Did you learn something during the play through of this area that would have helped your understanding of a previous area?
 
