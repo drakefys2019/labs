@@ -64,7 +64,7 @@ Ibn 'Arabi
 
 ![Audio Log 1](captures/audio_log_1.jpg#capture)
 
-### Completing The Island
+### Completing The Monastery
 This part of the island is complete when the final puzzle is solved and the laser fires into the sky. Nice work!
 
 ![Laser Capture Image](captures/laser_capture.jpg#capture)
