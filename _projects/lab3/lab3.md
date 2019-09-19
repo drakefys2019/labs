@@ -77,7 +77,7 @@ Where might this hidden path lead us?
 
 ### The Witness Journal Entry #2
 
-Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Your journal entry must include a discussion on either item 1, 2, 3, 4, or 5 below:
+Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Choose one of the prompts below (either 1, 2, 3, 4, or 5) to respond to in your journal entry.
 
 1. ##### **Lesson Learned**
   - ##### Can you identify the main lesson the monastery attempts to teach you?
