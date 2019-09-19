@@ -77,27 +77,27 @@ Where might this hidden path lead us?
 
 ### The Witness Journal Entry #2
 
-Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Your journal entry must include discussions on at least (1) of the following:
+Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Your journal entry must include a discussion on either item 1, 2, 3, 4, or 5 below:
 
 1. ##### **Lesson Learned**
   - ##### Can you identify the main lesson the monastery attempts to teach you?
   - ##### Did you learn something during the play through of this area that would have helped your understanding of a previous area?
 
-- ##### **Unseen, Unsolved**
+2. ##### **Unseen, Unsolved**
   - ##### Report on a "secret" you discovered in this area that wasn't mentioned in this guide or during class. How did you discover this secret? Feel free to include screenshots or sketches in addition--not substitution--to your written response.
   - ##### Discuss your thought process in the moments leading up to and during this discovery.
   - ##### How does this discovery contribute to your understanding of the nature of the game?
 
-- ##### **Recorded Wisdom**
+3. ##### **Recorded Wisdom**
   - ##### Imagine you are asked to record an audio log for the monastery section of the island.
   - ##### What piece of advice would you want to pass on to the listener?
   - ##### How would your guidance relate to both the in-game world and the real world?
 
-- ##### **Iconography Identified**
+4. ##### **Iconography Identified**
   - ##### Discuss your understanding of a symbol present in a puzzle in this area.
   - ##### When you see this symbol, what does it imply about the puzzle?
 
-- ##### **Variations on A Theme**
+5. ##### **Variations on A Theme**
   - ##### Briefly summarize your personal route through the monastery.
   - ##### Do you think the puzzles in this area could have been solved differently or in a different order? Explain.
   - ##### In your opinion, is there an ideal way to solve this area?
