@@ -155,10 +155,10 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
   - ##### Describe a situation in which these hints increased your confusion instead of your understanding.
   - ##### What additional information, crucial to solving these puzzles, is still missing? How did you derive this missing information?
 
-4. ##### **Accustomed, Accomplished**
-  - ##### How did you feel when you finally completed the shady trees area? Explain.
-  - ##### What was the most frustrating aspect to solving these puzzles? Explain.
-  - ##### What was the most delightful puzzle activity in this area? Explain.
+4. ##### **Audio Log Reflections**
+  - ##### Respond to the content of an audio log in this area. In your own words, explain the message behind the content of the log. What is the speaker trying to say? Do you agree with him or her?
+  - ##### Why do you think these audio log(s) were chosen for this location of the game?
+  - ##### In what way do the audio log(s) relate to the puzzles in this area?
 
 **Final Journal Requirement:**
 
