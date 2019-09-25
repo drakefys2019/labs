@@ -152,7 +152,7 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
 
 3. ##### **Helpful Hints**
   - ##### The shady trees sections of the island is covered in environmental clues. How do these clues lend you aid in solving the puzzles?
-  - ##### Describe a situation in which these hints furthered your confusion instead of your understanding.
+  - ##### Describe a situation in which these hints increased your confusion instead of your understanding.
   - ##### What additional information, crucial to solving these puzzles, is still missing? How did you derive this missing information?
 
 4. ##### **Accustomed, Accomplished**
