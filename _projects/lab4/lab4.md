@@ -156,9 +156,9 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
   - ##### What additional information, crucial to solving these puzzles, is still missing? How did you derive this missing information?
 
 4. ##### **Accustomed, Accomplished**
-  - ##### How did you feel when you finally completed the shady trees area?
-  - ##### What was the most frustrating aspect to solving these puzzles?
-  - ##### What was the most delightful puzzle activity in this area?
+  - ##### How did you feel when you finally completed the shady trees area? Explain.
+  - ##### What was the most frustrating aspect to solving these puzzles? Explain.
+  - ##### What was the most delightful puzzle activity in this area? Explain.
 
 **Final Journal Requirement:**
 
