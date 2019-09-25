@@ -1,13 +1,14 @@
-<!-- ---
+---
 layout: post
 title:  "LAB 4"
 date:   2019-05-06
 thumbnail: captures/header.jpg
+visible: false
 dependencies:
 - helpers
---- -->
+---
 
-
+# **The Witness: Lab 04**
 ![Header Image 1](captures/header.jpg#header)
 # Shady Trees
 
@@ -23,7 +24,7 @@ The area's section of puzzles begins just beyond this rusty, orange door.
 
 ![Starting Point Image](captures/starting_point.jpg#capture)
 
-<span style="color:blue"> What similarities do you observe between the layout of this door panel and the layout of the puzzles in this area? </span>
+<span style="color:blue"> Group Discussion: What similarities do you observe between the layout of this door panel and the layout of the puzzles in this area? </span>
 
 ### Key Insights
 
@@ -42,20 +43,20 @@ The area's section of puzzles begins just beyond this rusty, orange door.
 What do you find peculiar about this puzzle?
 ![Image Capture 1](captures/capture_1.jpg#capture)
 
-<span style="color:blue"> What techniques might you use to study the relationship between this puzzle and its immediate surroundings?
+<span style="color:blue"> Group Discussion: What techniques might you use to study the relationship between this puzzle and its immediate surroundings?
 
 ### Mirrored Lessons
 
 ![Capture Image 2](captures/capture_2.jpg#capture)
 
-<span style="color: blue">Do lessons from one side of Shady Trees give insight into the solutions of the other side?</span>
+<span style="color: blue">Group Discussion: Do lessons from one side of Shady Trees give insight into the solutions of the other side?</span>
 
 ### Perspective
 When solving these puzzles, consider your position in the environment, and your view of the puzzle screen.
 
 ![Capture Image 3](captures/capture_3.jpg#capture)
 
-<span style="color: blue">How might you change your perspective to gain insight into the puzzle solutions?</span>
+<span style="color: blue">Group Discussion: How might you change your perspective to gain insight into the puzzle solutions?</span>
 
 
 ### [David Darling, 1996](http://www.daviddarling.info/)
@@ -99,7 +100,7 @@ beyond language, beyond concepts to the concrete.
 David Darling, 1996
 </div>
 
-<span style="color: blue">Do you think David Darling's excerpt relates to the puzzles in this area?</span>
+<span style="color: blue">Group Discussion: In what way you think David Darling's excerpt relates to the puzzles in this area?</span>
 
 ![Audio Log 1](captures/audio_log_1.jpg#capture)
 
@@ -119,11 +120,12 @@ Ask no more.
 
 Only listen to the voice of pines and cedars when no
 wind stirs.
-
+<br>
+--<br>
 Ryonen, 1711
 </div>
 
-<span style="color: blue">What might Ryonen mean when she says, "Only listen to the voice of pines and cedars when no wind stirs." Is light perhaps this voice when no wind stirs the trees?</span>
+<span style="color: blue">Group Discussion: What might Ryonen mean when she says, "Only listen to the voice of pines and cedars when no wind stirs." Is light perhaps this voice when no wind stirs the trees?</span>
 
 ![Audio Log 2](captures/audio_log_2.jpg#capture)
 
@@ -134,24 +136,30 @@ This part of the island is complete when the final puzzle is solved and the lase
 
 ![Laser Capture Image](captures/laser_capture.jpg#capture)
 
-### Journal Assignment
+### The Witness Journal Entry #4
 
-Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Your journal entry must include discussions on at least (2) of the following:
+Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Choose one of the prompts below (either 1, 2, 3, or 4) to respond to in your journal entry.
 
-- ##### Any one of the <span style="color: blue">blue prompts</span> from this lab
-- ##### Something that you found confusing
-- ##### A discovery you made about the nature of the island
-- ##### An "aha!" moment you had while solving any of the puzzles
-- ##### Do you have a theory on what the purpose of this game is? Explain it.
-- ##### Describe an aspect of the environment that improved your understanding of the puzzles.
-- ##### Are any of the audio logs meaningful to you? If yes, explain why.
+1. ##### **Compare, Contrast**
+  - ##### Compare the puzzles in the shady trees area to those found in lab 1, 2 or 3.
+  - ##### In what ways are these puzzle mechanics similar? In what ways are they different?
+  - ##### Can you identify one lesson learned from the monastery that informed your approach to the shady trees puzzles?
+
+2. ##### **Trials and Tribulations**
+  - ##### As you complete both sections of the shady trees, consider your thought process as you gradually come to understand the rules of this area.
+  - ##### How does the left side of shady trees differ from the right side?
+  - ##### Did knowledge from one section hinder your understanding of the other, or is there a collaborative lesson both sides teach together?
+
+3. ##### **Helpful Hints**
+  - ##### The shady trees sections of the island is covered in environmental clues. How do these clues lend you aid in solving the puzzles?
+  - ##### Describe a situation in which these hints furthered your confusion instead of your understanding.
+  - ##### What additional information, crucial to solving these puzzles, is still missing? How did you derive this missing information?
+
+4. ##### **Accustomed, Accomplished**
+  - ##### How did you feel when you finally completed the shady trees area?
+  - ##### What was the most frustrating aspect to solving these puzzles?
+  - ##### What was the most delightful puzzle activity in this area?
 
 **Final Journal Requirement:**
 
-Discuss the solution to a particular puzzle that challenged you. How does this puzzle work? If it helps, feel free to include a screenshot or sketch of the puzzle.
-
-<!-- As you reflect on your experiences in The Witness from this week, alongside class discussion, lecture, and readings, consider including responses to the <span style="color: blue">prompts in blue</span> as a starting point, as well as your own thoughts, questions, observations, and connections.
-
-Contemplate including in your responses observations on the puzzle mechanics and game design of the environment in this week's section of puzzles. What interesting environmental clues and insights did you uncover in this area of the game? What lessons, or creative discoveries from previous island sections may have helped or hindered your completion of this week's challenges, and in what way did they effect your understanding of this week's puzzles?
-
-Additionally, consider how responses can include your interpretation of in-game quotes from audio recorders and how these quotes might relate to puzzles or ideas from a certain area of The Witness island. Further steps could be taken to research the famous figures behind these audio recorder quotes to learn more about their backgrounds and how their philosophies intertwine with the lessons in this game. -->
+After responding to one of the items above, discuss the solution to a particular puzzle that challenged you. Explain the mechanics of this puzzle in detail and how you came to understand them. If it helps, feel free to include screenshots or sketches of the puzzle.
