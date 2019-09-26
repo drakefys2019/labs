@@ -142,8 +142,8 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
 
 1. ##### **Compare, Contrast**
   - ##### Compare the puzzles in the shady trees area to those found in lab 1, 2 or 3.
+  - ##### Identify lesson(s) learned from a previous lab that informed your approach to the shady trees puzzles.
   - ##### In what ways are these puzzle mechanics similar? In what ways are they different?
-  - ##### Can you identify one lesson learned from the monastery that informed your approach to the shady trees puzzles?
 
 2. ##### **Trials and Tribulations**
   - ##### As you complete both sections of the shady trees, consider your thought process as you gradually come to understand the rules of this area.
