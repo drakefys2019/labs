@@ -38,7 +38,7 @@ Sometimes a puzzle can be best scene from a different vantage point.
 <span style="color: blue">How does adjusting your point of view help you find solutions to some of these puzzles?</span>
 
 ### Visual Detail
-Notice how this panel in broken.
+Notice how this panel is broken.
 <br><br>
 ![Insight Image 2](captures/insight_2.jpg#capture)
 
