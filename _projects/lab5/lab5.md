@@ -235,7 +235,7 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
 
 3. ##### **Statuesque Philosophies**
   - ##### Study the statues that walk the lawns of the keep.
-  - ##### How do these statues make you feel as you encounter them?
+  - ##### What thoughts go through your mind as you look at each statue?
   - ##### Identify a minimum of (3) statues in the keep that seem to relate to the conceptual understanding of the puzzles in this area, or the content of the audio-logs. Explain these relationships.
 
 4. ##### **The Big Picture**
