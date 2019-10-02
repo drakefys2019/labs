@@ -75,7 +75,7 @@ Notice how this platform is broken.
 <span style="color: blue">Group Discussion: Do the landscape features and obstructions in the environment help you identify the puzzle solutions more easily? Do these landmarks present additional challenges? How might you improvise if the optimal solution is unattainable?</span>
 
 ### Puzzling Transformations
-Notice what occurs on the puzzle panel when you step into this area.
+Pay attention to what occurs on the puzzle panel when you step into this area.
 <br><br>
 ![Insight Image 6](captures/insight_6.jpg#capture)
 
@@ -225,7 +225,7 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
 
 1. ##### **Hedges in Harmony**
   - ##### What challenged your understanding of the rules and mechanics of the hedge-maze area?
-  - ##### How did you understanding of this area progressively change as you completed each hedge?
+  - ##### How did your understanding of this area progressively change as you completed each hedge?
   - ##### Discuss your understanding of each section of the hedges. What unique lesson does each section teach you?
 
 2. ##### **Panels and Platforms**
@@ -241,7 +241,7 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
 4. ##### **The Big Picture**
   - ##### In combination, what do the platform puzzles and hedge-maze puzzles attempt to teach you?
   - ##### Based on your personal experience, would you recommend the keep be completed in a specific order? Explain.
-  - ##### In your opinion, what common theme exists in the keep's audio-log recordings? 
+  - ##### In your opinion, what common theme exists in the keep's audio-log recordings?
 
 **Final Journal Requirement:**
 
