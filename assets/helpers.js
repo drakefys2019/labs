@@ -62,6 +62,24 @@ function collapseExcerpt2() {
   }
 }
 
+function collapseExcerpt3() {
+  var x = document.getElementById("excerpt3");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+
+function collapseExcerpt4() {
+  var x = document.getElementById("excerpt4");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+
 function collapseChestMap() {
   var x = document.getElementById("chestmap");
   if (x.style.display === "block") {

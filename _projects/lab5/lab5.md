@@ -8,11 +8,12 @@ dependencies:
 - helpers
 ---
 
+# **The Witness: Lab 05**
 
 ![Header Image 1](captures/header.jpg#header)
 # The Keep
 
-Adjacent to the shaded section of trees, an echoing tunnel entrance leads to the pristine gardens of The Keep. Various figurines caught in frozen motion adorn the grounds. Not everything is as it appears to be.
+Adjacent to the shady trees, an echoing tunnel entrance leads to the pristine gardens of The Keep. Various statues caught in frozen motion adorn the grounds. Not everything is as it appears to be.
 
 ## <center>You Are Here</center>
 
@@ -20,9 +21,13 @@ Adjacent to the shaded section of trees, an echoing tunnel entrance leads to the
 
 ### Key Insights
 
-| [Vantage](#vantage) | [Visual Detail](#visual-detail) | [Auditory Detail](#auditory-detail) | [Composite Solutions](#composite-solutions) |
-|:-:|:-:|:-:|:-:|
-|![Thumbnail 1](captures/insight_1.jpg#thumbnail)| ![Thumbnail 2](captures/insight_2.jpg#thumbnail)| ![Thumbnail 3](captures/insight_3.jpg#thumbnail)| ![Thumbnail 4](captures/insight_4.jpg#thumbnail)|
+| [Auditory Detail](#auditory-detail) | [Vantage](#vantage) | [Composite Solutions](#composite-solutions) |
+|:-:|:-:|:-:|
+|![Thumbnail 1](captures/insight_1.jpg#thumbnail)| ![Thumbnail 2](captures/insight_2.jpg#thumbnail)| ![Thumbnail 3](captures/insight_3.jpg#thumbnail)
+
+| [Broken Rules](#broken-rules) | [Visual Detail](#visual-detail) | [Puzzling Transformations](#puzzling-transformations) |
+|:-:|:-:|:-:|
+|![Thumbnail 4](captures/insight_4.jpg#thumbnail)| ![Thumbnail 5](captures/insight_5.jpg#thumbnail)| ![Thumbnail 6](captures/insight_6.jpg#thumbnail)
 
 ### Audio Logs
 
@@ -30,33 +35,51 @@ Adjacent to the shaded section of trees, an echoing tunnel entrance leads to the
 : ![Audio Log 1](captures/audio_log_1.jpg#audio_log)
 - [Rabindranath Tagore, 1910](#rabindranath-tagore):
 : ![Audio Log 2](captures/audio_log_2.jpg#audio_log)
-
-### Vantage
-Sometimes a puzzle can be best scene from a different vantage point.
-<br><br>
-![Insight Image 1](captures/insight_1.jpg#capture)
-
-<span style="color: blue">How does adjusting your point of view help you find solutions to some of these puzzles?</span>
-
-### Visual Detail
-Notice how this panel is broken.
-<br><br>
-![Insight Image 2](captures/insight_2.jpg#capture)
-
-<span style="color: blue">Does the variety of landscape features and obstructions in the environment help you identify the puzzle solutions more easily? Do these landmarks present additional challenges? How might you improvise if the optimal solution is unattainable?</span>
+- [Douglas Hofstadter, 2007](#douglas-hofstadter):
+: ![Audio Log 3](captures/audio_log_3.jpg#audio_log)
+- [William K. Clifford, 1877](#william-k-clifford):
+: ![Audio Log 4](captures/audio_log_4.jpg#audio_log)
 
 ### Auditory Detail
 As you walk through this dimly lit entrance into the keep, consider how the echoes of your footsteps become acutely noticeable.
 <br><br>
-![Insight Image 3](captures/insight_3.jpg#capture)
+![Insight Image 1](captures/insight_1.jpg#capture)
 
-<span style="color: blue">What other interesting soundscapes pervade the keep's grounds?</span>
+<span style="color: blue">Group Discussion: What other sensorial experiences pervade the keep's grounds?</span>
+
+### Vantage
+Sometimes a puzzle can be best scene from a different vantage point.
+<br><br>
+![Insight Image 2](captures/insight_2.jpg#capture)
+
+<span style="color: blue">Group Discussion: How does adjusting your point of view help you find solutions to some of these puzzles?</span>
 
 ### Composite Solutions
 
+![Insight Image 3](captures/insight_3.jpg#capture)
+
+<span style="color: blue">Group Discussion: What is the lesson this puzzle is trying to teach you?</span>
+
+### Broken Rules
+Do these platforms allow you the bend the rules while puzzle-solving?
+<br><br>
 ![Insight Image 4](captures/insight_4.jpg#capture)
 
-<span style="color: blue">What is the lesson this puzzle is trying to teach you?</span>
+<span style="color: blue">Group Discussion: How does operating outside the rules change your approach to finding the solution?</span>
+
+### Visual Detail
+Notice how this platform is broken.
+<br><br>
+![Insight Image 5](captures/insight_5.jpg#capture)
+
+<span style="color: blue">Group Discussion: Do the landscape features and obstructions in the environment help you identify the puzzle solutions more easily? Do these landmarks present additional challenges? How might you improvise if the optimal solution is unattainable?</span>
+
+### Puzzling Transformations
+Notice what occurs on the puzzle panel when you step into this area.
+<br><br>
+![Insight Image 6](captures/insight_6.jpg#capture)
+
+<span style="color: blue">Group Discussion: What methods do you utilize to study the relationship between the puzzle panels and the platforms?</span>
 
 ### [B. F. Skinner](https://psychology.fas.harvard.edu/people/b-f-skinner)
 
@@ -113,7 +136,7 @@ B.F. Skinner, 1971
 
 ![Audio Log 1](captures/audio_log_1.jpg#capture)
 
-<span style="color: blue">Do you feel your approach to puzzle solutions in this area is dictated by the environment, or is your approach your own?</span>
+<span style="color: blue">Group Discussion: Do you feel your approach to puzzle solutions in this area is dictated by the environment, or is your approach your own?</span>
 
 ### [Rabindranath Tagore](https://www.nobelprize.org/prizes/literature/1913/tagore/biographical/)
 
@@ -151,7 +174,43 @@ Rabindranath Tagore, 1910
 
 ![Audio Log 2](captures/audio_log_2.jpg#capture)
 
-<span style="color: blue">What do you think is the purpose of the statues in this setting?</span>
+<span style="color: blue">Group Discussion: What do you think is the purpose of the statues in this setting?</span>
+
+### [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter)
+
+Search the backside of the tallest throne to discover an audio-log of Douglas Hofstadter ruminating on the concept of the self.
+
+<button onclick="collapseExcerpt3()">View Excerpt</button>
+
+<div id="excerpt3" style="display:none">
+
+"...Could an 'I' be more like an elusive, receding, shimmering, rainbow than like a tangible[...] pot of gold?"
+
+<br>---<br>
+Douglas Hofstadter, 2007
+</div>
+
+![Audio Log 3](captures/audio_log_3.jpg#capture)
+
+<!-- <span style="color: blue">Group Discussion: </span> -->
+
+### [William K. Clifford](https://en.wikiquote.org/wiki/William_Kingdon_Clifford)
+
+Peak beneath the feet of this burdened figure to spot an audio-log of William K. Clifford.
+
+<button onclick="collapseExcerpt4()">View Excerpt</button>
+
+<div id="excerpt4" style="display:none">
+
+"...Then [such a man] should have no time to believe."
+
+<br>---<br>
+William K. Clifford, 1877
+</div>
+
+![Audio Log 4](captures/audio_log_4.jpg#capture)
+
+<!-- <span style="color: blue">Group Discussion: TODO</span> -->
 
 
 ### Completing Lab 5
@@ -160,24 +219,30 @@ This part of the island is complete when the final puzzle is solved and the lase
 
 ![Laser Capture Image](captures/laser_capture.jpg#capture)
 
-### Journal Assignment
+### The Witness Journal Entry #5
 
-Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Your journal entry must include discussions on at least (2) of the following:
+Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Choose one of the prompts below (either 1, 2, 3, or 4) to respond to in your journal entry.
 
-- ##### Any one of the <span style="color: blue">blue prompts</span> from this lab
-- ##### Something that you found confusing
-- ##### A discovery you made about the nature of the island
-- ##### An "aha!" moment you had while solving any of the puzzles
-- ##### Do you have a theory on what the purpose of this game is? Explain it.
-- ##### Describe an aspect of the environment that improved your understanding of the puzzles.
-- ##### Are any of the audio logs meaningful to you? If yes, explain why.
+1. ##### **Hedges in Harmony**
+  - ##### What challenged your understanding of the rules and mechanics of the hedge-maze area?
+  - ##### How did you understanding of this area progressively change as you completed each hedge?
+  - ##### Discuss your understanding of each section of the hedges. What unique lesson does each section teach you?
+
+2. ##### **Panels and Platforms**
+  - ##### In what ways are the platform puzzles similar to the hedge-maze puzzles?
+  - ##### How are the platform puzzles different from other panel puzzles you have experienced in past labs?
+  - ##### After completing the platform puzzles, how has your understanding of the puzzles in this game grown?
+
+3. ##### **Statuesque Philosophies**
+  - ##### Study the statues that walk the lawns of the keep.
+  - ##### How do these statues make you feel as you encounter them?
+  - ##### Identify a minimum of (3) statues in the keep that seem to relate to the conceptual understanding of the puzzles in this area, or the content of the audio-logs. Explain these relationships.
+
+4. ##### **The Big Picture**
+  - ##### In combination, what do the platform puzzles and hedge-maze puzzles attempt to teach you?
+  - ##### Based on your personal experience, would you recommend the keep be completed in a specific order? Explain.
+  - ##### In your opinion, what common theme exists in the keep's audio-log recordings? 
 
 **Final Journal Requirement:**
 
-Discuss the solution to a particular puzzle that challenged you. How does this puzzle work? If it helps, feel free to include a screenshot or sketch of the puzzle.
-
-<!-- As you reflect on your experiences in The Witness from this week, alongside class discussion, lecture, and readings, consider including responses to the <span style="color: blue">prompts in blue</span> as a starting point, as well as your own thoughts, questions, observations, and connections.
-
-Contemplate including in your responses observations on the puzzle mechanics and game design of the environment in this week's section of puzzles. What interesting environmental clues and insights did you uncover in this area of the game? What lessons, or creative discoveries from previous island sections may have helped or hindered your completion of this week's challenges, and in what way did they effect your understanding of this week's puzzles?
-
-Additionally, consider how responses can include your interpretation of in-game quotes from audio recorders and how these quotes might relate to puzzles or ideas from a certain area of The Witness island. Further steps could be taken to research the famous figures behind these audio recorder quotes to learn more about their backgrounds and how their philosophies intertwine with the lessons in this game. -->
+After responding to one of the items above, discuss the solution to a particular puzzle that challenged you. Explain the mechanics of this puzzle in detail and how you came to understand them. If it helps, feel free to include screenshots or sketches of the puzzle.
