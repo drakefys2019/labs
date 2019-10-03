@@ -1,11 +1,12 @@
-<!-- ---
+---
 layout: post
 title:  "Movies Guide"
 date:   2019-05-06
 thumbnail: captures/Header.png
+visible: true
 dependencies:
 - helpers
---- -->
+---
 
 
 ![Header Image 1](captures/Header.png#header)
