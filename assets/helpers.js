@@ -44,6 +44,15 @@ function renderPageText() {
   }
 }
 
+function collapseExcerpt0() {
+  var x = document.getElementById("excerpt0");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+
 function collapseExcerpt1() {
   var x = document.getElementById("excerpt1");
   if (x.style.display === "block") {
@@ -73,6 +82,24 @@ function collapseExcerpt3() {
 
 function collapseExcerpt4() {
   var x = document.getElementById("excerpt4");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+
+function collapseExcerpt5() {
+  var x = document.getElementById("excerpt5");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+
+function collapseExcerpt6() {
+  var x = document.getElementById("excerpt6");
   if (x.style.display === "block") {
     x.style.display = "none";
   } else {

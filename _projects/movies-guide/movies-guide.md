@@ -8,6 +8,7 @@ dependencies:
 - helpers
 ---
 
+# **The Witness: Movie Theater**
 
 ![Header Image 1](captures/Header.png#header)
 # Chest and Movie Location Guide
@@ -18,47 +19,64 @@ There are 6 locations throughout the island of The Witness that contain a coded 
 
 ## <center>Chest and Movie Theater Map</center>
 
-<button onclick="collapseChestMap">View Excerpt</button>
+<button onclick="collapseExcerpt0()">Show Spoiler</button>
 
-<div markdown="1" id="chestmap" style="display:block">
+<div markdown="1" id="excerpt0" style="display:none">
 ![Witness Map Lab 1](captures/ChestsMap.jpg#capture)
 </div>
 
-### Chest 1: Entry Area
+### Chest 1
+<button onclick="collapseExcerpt1()">Show Spoiler</button>
 
+<div markdown="1" id="excerpt1" style="display:none">
+## Entry Area
 As you head out the main entry of the starting location, stay on the path and take your first left to discover a doorway puzzle leading to the first chest.
-
 ![Chest 1 Image](captures/Chest 1-Starting Area.png#capture)
+</div>
 
-### Chest 2: Desert Ruins
+### Chest 2
+<button onclick="collapseExcerpt2()">Show Spoiler</button>
 
+<div markdown="1" id="excerpt2" style="display:none">
+## Desert Ruins
 Poke around the coast-line North of the Desert Ruins to discover a puzzle-locked doorway with a chest just beyond it.
-
 ![Chest 2 Image](captures/Chest 2-Desert Ruins.png#capture)
+</div>
 
-### Chest 3: The Monastery
+### Chest 3
+<button onclick="collapseExcerpt3()">Show Spoiler</button>
 
+<div markdown="1" id="excerpt3" style="display:none">
+## The Monastery
 Approachable from The Jungle or The Monastery, solve this puzzle door to gain access to another chest.
-
 ![Chest 3 Image](captures/Chest 3-The Monastery.png#capture)
+</div>
 
-### Chest 4: Shipwreck
+### Chest 4
+<button onclick="collapseExcerpt4()">Show Spoiler</button>
 
+<div markdown="1" id="excerpt4" style="display:none">
+## The Shipwreck
 Carefully maneuver through the rusted remains of the Shipwreck until you reach the lowest portion of the wreckage. A puzzle-door, lit by an ominous red light, leads to the fourth chest.
-
 ![Chest 4 Image](captures/Chest 4-Shipwreck.png#capture)
+</div>
 
-### Chest 5: The Mountain
+### Chest 5
+<button onclick="collapseExcerpt5()">Show Spoiler</button>
 
+<div markdown="1" id="excerpt5" style="display:none">
+## The Mountain
 Curve up the side of The Mountain until you reach a white hallway cut into the side. Walk down this hallway to discover the fifth chest, hidden behind a puzzle-door.
-
 ![Chest 5 Image](captures/Chest 5-The Mountain.png#capture)
+</div>
 
-### Chest 6: EndGame
+### Chest 6
+<button onclick="collapseExcerpt6()">Show Spoiler</button>
 
+<div markdown="1" id="excerpt6" style="display:none">
+## The Endgame
 This chest is only accessible once you complete the game. Keep going!
-
-![Chest 6 Image](captures/Chest 6-EndGame.png#capture)
+</div>
 
 
 ## The Movie Theater
