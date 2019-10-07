@@ -1,12 +1,14 @@
-<!-- ---
+---
 layout: post
 title:  "LAB 6"
 date:   2019-05-06
 thumbnail: captures/header.jpg
+visible: false
 dependencies:
 - helpers
---- -->
+---
 
+# **The Witness: Lab 06**
 
 ![Header Image 1](captures/header.jpg#header)
 # The Jungle
@@ -15,7 +17,7 @@ Lose your way in a thicket of bamboo shoots as you contemplate the aural qualiti
 
 ## <center>You Are Here</center>
 
-![Witness Map Lab 5](captures/Witness_Map_Lab6.jpg#capture)
+![Witness Map Lab 6](captures/Witness_Map_Lab6.jpg#capture)
 
 ### Key Insights
 
@@ -99,25 +101,30 @@ This part of the island is complete when the final puzzle is solved and the lase
 
 <span style="color: blue">What might the yellow arrow symbol mean in the context of this puzzle?</span>
 
+### The Witness Journal Entry #6
 
-### Journal Assignment
+Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Choose one of the prompts below (either 1, 2, 3, or 4) to respond to in your journal entry.
 
-Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Your journal entry must include discussions on at least (2) of the following:
+1. ##### **Hedges in Harmony**
+  - ##### What challenged your understanding of the rules and mechanics of the hedge-maze area?
+  - ##### How did your understanding of this area progressively change as you completed each hedge?
+  - ##### Discuss your understanding of each section of the hedges. What unique lesson does each section teach you?
 
-- ##### Any one of the <span style="color: blue">blue prompts</span> from this lab
-- ##### Something that you found confusing
-- ##### A discovery you made about the nature of the island
-- ##### An "aha!" moment you had while solving any of the puzzles
-- ##### Do you have a theory on what the purpose of this game is? Explain it.
-- ##### Describe an aspect of the environment that improved your understanding of the puzzles.
-- ##### Are any of the audio logs meaningful to you? If yes, explain why.
+2. ##### **Panels and Platforms**
+  - ##### In what ways are the platform puzzles similar to the hedge-maze puzzles?
+  - ##### How are the platform puzzles different from other panel puzzles you have experienced in past labs?
+  - ##### After completing the platform puzzles, how has your understanding of the puzzles in this game grown?
+
+3. ##### **Statuesque Philosophies**
+  - ##### Study the statues that walk the lawns of the keep.
+  - ##### What thoughts go through your mind as you look at each statue?
+  - ##### Identify a minimum of (3) statues in the keep that seem to relate to the conceptual understanding of the puzzles in this area, or the content of the audio-logs. Explain these relationships.
+
+4. ##### **The Big Picture**
+  - ##### In combination, what do the platform puzzles and hedge-maze puzzles attempt to teach you?
+  - ##### Based on your personal experience, would you recommend the keep be completed in a specific order? Explain.
+  - ##### In your opinion, what common theme exists in the keep's audio-log recordings?
 
 **Final Journal Requirement:**
 
-Discuss the solution to a particular puzzle that challenged you. How does this puzzle work? If it helps, feel free to include a screenshot or sketch of the puzzle.
-
-<!-- As you reflect on your experiences in The Witness from this week, alongside class discussion, lecture, and readings, consider including responses to the <span style="color: blue">prompts in blue</span> as a starting point, as well as your own thoughts, questions, observations, and connections.
-
-Contemplate including in your responses observations on the puzzle mechanics and game design of the environment in this week's section of puzzles. What interesting environmental clues and insights did you uncover in this area of the game? What lessons, or creative discoveries from previous island sections may have helped or hindered your completion of this week's challenges, and in what way did they effect your understanding of this week's puzzles?
-
-Additionally, consider how responses can include your interpretation of in-game quotes from audio recorders and how these quotes might relate to puzzles or ideas from a certain area of The Witness island. Further steps could be taken to research the famous figures behind these audio recorder quotes to learn more about their backgrounds and how their philosophies intertwine with the lessons in this game. -->
+After responding to one of the items above, discuss the solution to a particular puzzle that challenged you. Explain the mechanics of this puzzle in detail and how you came to understand them. If it helps, feel free to include screenshots or sketches of the puzzle.
