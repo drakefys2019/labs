@@ -85,7 +85,7 @@ Lao Tzu, 6th century BC
 
 ![Audio Log 1](captures/audio_log_1.jpg#capture)
 
-<span style="color: blue">Reflect on this notion of "being" and "non-being". Is the jungle merely a collection of trees, or can each tree be considered individually, apart from its surroundings? How many trees could one remove from this jungle before the jungle would cease to exist?</span>
+<span style="color: blue">Group Discussion: Reflect on this notion of "being" and "non-being". Is the jungle merely a collection of trees, or can each tree be considered individually, apart from its surroundings? How many trees could one remove from this jungle before the jungle would cease to exist?</span>
 
 ### [Sahib ibn Abbad](https://en.wikipedia.org/wiki/Sahib_ibn_Abbad)
 
