@@ -38,14 +38,14 @@ Lose your way in a thicket of bamboo shoots as you contemplate the aural qualiti
 
 ![Insight Image 1](captures/insight_1.jpg#capture)
 
-<span style="color: blue">These puzzles look peculiar. What do you think their solutions represent?</span>
+<span style="color: blue">Group Discussion: These puzzles look peculiar. What do you think their solutions represent?</span>
 
 ### Confusion
 Environmental distraction will make solving these puzzles tricky.
 <br><br>
 ![Insight Image 2](captures/insight_2.jpg#capture)
 
-<span style="color: blue">Consider how you might mentally "filter" the useful puzzle clues from the distractions. What mental or physical techniques do you employ to make this process easier?</span>
+<span style="color: blue">Group Discussion: Consider how you might mentally "filter" the useful puzzle clues from the distractions. What mental or physical techniques do you employ to make this process easier?</span>
 
 ### Combination
 Consider this twisted tree located in the center of a maze of bamboo.
@@ -55,7 +55,7 @@ Consider this twisted tree located in the center of a maze of bamboo.
 <!-- Is this tree apart from the jungle, surrounded yet separate from it? Does the jungle encompass this tree, and all trees, individually, or together? How many bamboo shoots could one remove from this jungle before the jungle would cease to exist? -->
 
 <span style="color: blue">
-Why do you think this curved tree is here? What symbolism does the tree convey in the context of this area?</span>
+Group Discussion: Why do you think this curved tree is here? What symbolism does the tree convey in the context of this area?</span>
 
 ### [Lao Tzu](https://psychology.fas.harvard.edu/people/b-f-skinner)
 
@@ -181,7 +181,7 @@ Richard Feynman, 1963
 
 ![Bonus Puzzle](captures/bonus_puzzle.jpg#capture)
 
-<span style="color: blue">What might the yellow arrow symbol mean in the context of this puzzle?</span>
+<span style="color: blue">Group Discussion: What might the yellow arrow symbol mean in the context of this puzzle?</span>
 
 ### Completing Lab 6
 
