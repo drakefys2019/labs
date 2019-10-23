@@ -41,7 +41,7 @@ There are many vibrantly hued plants scattered on and across the greenhouse.
 <br><br>
 ![Insight Image 2](captures/insight_2.jpg#capture)
 
-<span style="color: blue">Group Discussion: What specific sections of plant life aid in furthering your understanding of color theory?</span>
+<span style="color: blue">Group Discussion: What specific sections of plant life aid in furthering your understanding of [color theory](https://colormatters.com/color-and-design/basic-color-theory)?</span>
 
 ### Sunlit Sagacity
 <br><br>
@@ -105,7 +105,7 @@ This part of the island is complete when the final puzzle is solved and the lase
 
 ### The Witness Journal Entry #7
 
-Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Choose one of the prompts below (either 1, 2, 3, or 4) to respond to in your journal entry.
+Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Choose one of the prompts below (either 1, 2, or 3) to respond to in your journal entry.
 
 1. ##### **Alternate Perceptions**
   - ##### Detail your procedure for solving the puzzles on the first floor of the greenhouse.
