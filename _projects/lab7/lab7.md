@@ -47,7 +47,7 @@ There are many vibrantly hued plants scattered on and across the greenhouse.
 <br><br>
 ![Insight Image 3](captures/insight_3.jpg#capture)
 
-<span style="color: blue">How do changes in environment lighting effect your ability to perceive colors accurately?</span>
+<span style="color: blue">Group Discussion: How do changes in environment lighting effect your ability to perceive colors accurately?</span>
 
 ### [Arthur Eddington](https://psychology.fas.harvard.edu/people/b-f-skinner)
 
