@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "LAB 6"
+title:  "LAB 7"
 date:   2019-05-06
 thumbnail: captures/header.jpg
 visible: false
@@ -8,210 +8,123 @@ dependencies:
 - helpers
 ---
 
-# **The Witness: Lab 06**
+# **The Witness: Lab 07**
 
 ![Header Image 1](captures/header.jpg#header)
-# The Jungle
+# The Greenhouse
 
-Lose your way in a thicket of bamboo shoots as you contemplate the aural qualities of the jungle.
+Seeing is believing in this illusory greenhouse of myriad hues.
 
 ## <center>You Are Here</center>
 
-![Witness Map Lab 6](captures/Witness_Map_Lab6.jpg#capture)
+![Witness Map Lab 7](captures/Witness_Map_Lab7.jpg#capture)
 
 ### Key Insights
 
-| [What's The Strategy?](#whats-the-strategy) | [Confusion](#confusion) | [Combination](#combination) |
+| [Filtered Information](#filtered-information) | [Coalescent Colors](#coalescent-colors) | [Sunlit Sagacity](#sunlit-sagacity) |
 |:-:|:-:|:-:|
 |![Thumbnail 1](captures/insight_1.jpg#thumbnail)| ![Thumbnail 2](captures/insight_2.jpg#thumbnail)| ![Thumbnail 3](captures/insight_3.jpg#thumbnail)|
 
 ### Audio Logs
 
-- [Lao Tzu](#lao-tzu):
+- [Arthur Eddington](#arthur-eddington):
 : ![Audio Log 1](captures/audio_log_1.jpg#audio_log)
-- [Sahib ibn Abbad](#sahib-ibn-abbad):
-: ![Audio Log 2](captures/audio_log_2.jpg#audio_log)
-- [Richard Feynman](#richard-feynman):
-: ![Audio Log 3](captures/audio_log_3.jpg#audio_log)
 
-### What's The Strategy?
+### Filtered Information
 
 ![Insight Image 1](captures/insight_1.jpg#capture)
 
-<span style="color: blue">These puzzles look peculiar. What do you think their solutions represent?</span>
+<span style="color: blue">Group Discussion: What role do these filtered panels play in the greenhouse?</span>
 
-### Confusion
-Environmental distraction will make solving these puzzles tricky.
+### Coalescent Colors
+There are many vibrantly hued plants scattered on and across the greenhouse.
 <br><br>
 ![Insight Image 2](captures/insight_2.jpg#capture)
 
-<span style="color: blue">Consider how you might mentally "filter" the useful puzzle clues from the distractions. What mental or physical techniques do you employ to make this process easier?</span>
+<span style="color: blue">Group Discussion: What specific sections of plant life aid in furthering your understanding of color theory?</span>
 
-### Combination
-Consider this twisted tree located in the center of a maze of bamboo.
+### Sunlit Sagacity
 <br><br>
 ![Insight Image 3](captures/insight_3.jpg#capture)
 
-<!-- Is this tree apart from the jungle, surrounded yet separate from it? Does the jungle encompass this tree, and all trees, individually, or together? How many bamboo shoots could one remove from this jungle before the jungle would cease to exist? -->
+<span style="color: blue">How do changes in environment lighting effect your ability to perceive colors accurately?</span>
 
-<span style="color: blue">
-Why do you think this curved tree is here? What symbolism does the tree convey in the context of this area?</span>
+### [Arthur Eddington](https://psychology.fas.harvard.edu/people/b-f-skinner)
 
-### [Lao Tzu](https://psychology.fas.harvard.edu/people/b-f-skinner)
-
-Entering the jungle from the monastery, look to the path to discover two audio logs sitting on either side of the path. Consider this excerpt from Lao Tzu.
+Find a way to access this primary green level to hear a musing by Arthur Eddington and his thoughts on the people of [Laputa](https://en.wikipedia.org/wiki/Laputa).
 
 <button onclick="collapseExcerpt1()">View Excerpt</button>
 
 <div id="excerpt1" style="display:none">
-We join spokes together in a wheel,
-but it is the center hole
-that makes the wagon move.
+As scientists, we realise that colour is merely a question
+of the wavelengths of aethereal vibrations,
 
-We shape clay into a pot,
-but it is the emptiness inside
-that holds whatever we want.
+but that does not seem to have dispelled the feeling
+that eyes which reflect light near wavelength 4800
+are a subject for rhapsody
 
-We hammer wood for a house,
-but it is the inner space
-that makes it livable.
+whilst those which reflect wavelength 5300
+are left unsung.
 
-We work with being,
-but non-being is what we use.
+We have not yet reached the practice of the Laputans, who,
+“if they would, for example, praise the beauty of a
+woman, or any other animal,
+
+“they describe it by rhombs, circles,
+parallelograms, ellipses, and other geometrical terms.”
+
+The materialist who is convinced that all phenomena
+arise from electrons and quanta and the like
+controlled by mathematical formulae,
+
+must presumably hold the belief
+that his wife is a rather elaborate differential equation,
+
+but he is probably tactful enough
+not to obtrude this opinion in domestic life.
+
+If this kind of scientific dissection
+is felt to be inadequate and irrelevant
+in ordinary personal relationships,
+
+it is surely out of place
+in the most personal relationship of all —
+that of the human soul to a divine spirit.
 
 <br>---<br>
-Lao Tzu, 6th century BC
+Arthur Eddington, 1927
 </div>
 
 ![Audio Log 1](captures/audio_log_1.jpg#capture)
 
-<span style="color: blue">Reflect on this notion of "being" and "non-being". Is the jungle merely a collection of trees, or can each tree be considered individually, apart from its surroundings? How many trees could one remove from this jungle before the jungle would cease to exist?</span>
-
-### [Sahib ibn Abbad](https://en.wikipedia.org/wiki/Sahib_ibn_Abbad)
-
-Adjacent to Lao Tzu's audio log turn right to see an audio log excerpt of Sahib ibn Abbad resting off to the right of the path.  
-
-<button onclick="collapseExcerpt2()">View Excerpt</button>
-
-<div id="excerpt2" style="display:none">
-The glass is transparent,
-the wine transparent —
-
-the two are similar,
-the affair confused.
-
-There seems to be wine
-and no glass,
-or glass
-and no wine.
-
-<br>---<br>
-Sahib ibn Abbad, circa 990
-</div>
-
-![Audio Log 2](captures/audio_log_2.jpg#capture)
-
-<!-- <span style="color: blue">[TEMP]</span> -->
-
-### [Richard Feynman](https://www.nobelprize.org/prizes/literature/1913/tagore/biographical/)
-
-This audio-log recording featuring Richard Feynman can be found along the rocky edge of an open path.
-
-<button onclick="collapseExcerpt3()">View Excerpt</button>
-
-<div id="excerpt3" style="display:none">
-
-If we were not able or did not desire to look in any new direction,
-if we did not have a doubt or recognize ignorance,
-
-we would not get any new ideas.  
-There would be nothing worth checking,
-because we would know what is true.  
-
-So what we call scientific knowledge today
-is a body of statements of varying degrees of certainty.  
-
-Some of them are most unsure; some of them are nearly sure;
-but none is absolutely certain.  Scientists are used to this.  
-
-We know that it is consistent to be able to live and not know.  
-
-Some people say,
-“How can you _live_ without knowing?” I do not know what they mean.
-
-I always live without knowing.  That is easy.  
-How you get to know is what I want to know.
-
-This freedom to doubt is an important matter in the sciences
-and, I believe, in other fields.  
-It was born of a struggle.  
-
-It was a struggle to be permitted to doubt, to be unsure.
-
-And I do not want us to forget the importance of the struggle
-and, by default, to let the thing fall away.  
-
-I feel a responsibility as a scientist
-who knows the great value
-of a satisfactory philosophy of ignorance,
-
-and the progress made possible by such a philosophy,
-progress which is the fruit of freedom of thought.  
-
-I feel a responsibility to proclaim the value of this freedom
-and to teach that doubt is not to be feared,
-
-but that it is to be welcomed
-as the possibility of a new potential for human beings.
-
-If you know that you are not sure,
-you have a chance to improve the situation.  
-
-I want to demand this freedom for future generations.
-
-<br>---<br>
-Richard Feynman, 1963
-</div>
-
-<!-- <span style="color: blue">[TEMP]</span> -->
-
-![Audio Log 3](captures/audio_log_3.jpg#capture)
-
-### Bonus Puzzle
-
-![Bonus Puzzle](captures/bonus_puzzle.jpg#capture)
-
-<span style="color: blue">What might the yellow arrow symbol mean in the context of this puzzle?</span>
-
-### Completing Lab 6
+### Completing Lab 7
 
 This part of the island is complete when the final puzzle is solved and the laser fires into the sky. Nice work!
 
 ![Laser Capture Image](captures/laser_capture.jpg#header)
 
-### The Witness Journal Entry #6
+### The Witness Journal Entry #7
 
 Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Choose one of the prompts below (either 1, 2, 3, or 4) to respond to in your journal entry.
 
-1. ##### **Struggle and Strife**
-  - ##### As you complete the jungle area, contemplate your own delights and frustrations in solving these unique puzzles.
-  - ##### Do you become easily defeated when the puzzle challenge is too great? Explain.
-  - ##### Does the challenge of a tough puzzle inspire you to keep trying? Explain.
+1. ##### **Alternate Perceptions**
+  - ##### Detail your procedure for solving the puzzles on the first floor of the greenhouse.
+  - ##### What environmental clues aided or hindered your completion of this section of the greenhouse? Explain.
+  - ##### How does the level of difficulty change when you perceive the problem in a different light?
 
-2. ##### **A Philosophy of Ignorance**
-  - ##### Listen to [Richard Feynman's audio log excerpt on "The Philosophy of Ignorance"](#richard-feynman).
-  - ##### Do you agree or disagree with the content of this excerpt? Explain.
-  - ##### In your progress through The Witness, how has your ignorance propelled you forward or held you back? Explain.
+2. ##### **An Elevated Experience**
+  - ##### Contemplate the puzzle challenges built into the elevator sequence in the greenhouse.
+  - ##### What lesson(s) does this section of the area convey to you? Explain.
+  - ##### What information is lost because of the broken power line? How can you alternatively reveal this illuminating knowledge?
 
-3. ##### **Difference and Distraction**
-  - ##### As you advance through the jungle, consider how competing distractions make completing the puzzles difficult.
-  - ##### Did you find some puzzle clues easier to understand than others? Explain.
-  - ##### Discuss how you filtered the relevant information from the background noise. What challenges arose during this process?
+3. ##### **A Theory of Color**
+  - ##### Does the greenhouse help to further your understanding of [color theory](https://colormatters.com/color-and-design/basic-color-theory)? Explain.
+  - ##### What previous lessons from The Witness, in combination with lessons learned from this area, helped you to complete these puzzles?
+  - ##### Discuss a powerful example of color theory that you've perceived in your life. It can be any use of color to convey meaning, be it art, science, design, engineering, etc. Why do you think this use of color was so effective? Explain.
 
-4. ##### **Combinatorial Concepts**
-  - ##### Throughout the jungle there are many puzzles that test you on similar concepts.
-  - ##### In what ways are each section of these panels similar? Explain.
-  - ##### What distinctions exist between each paneled section? How do these distinctions help you understand the rules of this area?
+4. ##### **When Soul Meets Body**
+  - ##### Consider [Arthur Eddington's thoughts](#arthur-eddington) on perceiving the World through purely scientific means.
+  - ##### Can the life experience be summarized solely through scientific measurement? Explain.
 
 **Final Journal Requirement:**
 
