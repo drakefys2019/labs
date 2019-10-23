@@ -70,7 +70,7 @@ We have not yet reached the practice of the Laputans, who,
 “if they would, for example, praise the beauty of a
 woman, or any other animal,
 
-“they describe it by rhombs, circles,
+they describe it by rhombs, circles,
 parallelograms, ellipses, and other geometrical terms.”
 
 The materialist who is convinced that all phenomena
@@ -115,16 +115,12 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
 2. ##### **An Elevated Experience**
   - ##### Contemplate the puzzle challenges built into the elevator sequence in the greenhouse.
   - ##### What lesson(s) does this section of the area convey to you? Explain.
-  - ##### What information is lost because of the broken power line? How can you alternatively reveal this illuminating knowledge?
+  - ##### What information is "lost" because of the broken power line? How did you "regain" this information?
 
 3. ##### **A Theory of Color**
-  - ##### Does the greenhouse help to further your understanding of [color theory](https://colormatters.com/color-and-design/basic-color-theory)? Explain.
+  - ##### Does the greenhouse help players to understand [color theory](https://colormatters.com/color-and-design/basic-color-theory)? Explain.
   - ##### What previous lessons from The Witness, in combination with lessons learned from this area, helped you to complete these puzzles?
-  - ##### Discuss a powerful example of color theory that you've perceived in your life. It can be any use of color to convey meaning, be it art, science, design, engineering, etc. Why do you think this use of color was so effective? Explain.
-
-4. ##### **When Soul Meets Body**
-  - ##### Consider [Arthur Eddington's thoughts](#arthur-eddington) on perceiving the World through purely scientific means.
-  - ##### Can the life experience be summarized solely through scientific measurement? Explain.
+  - ##### Consider [Arthur Eddington's thoughts](#arthur-eddington) on perceiving the World through purely scientific means. Can life be summarized solely through scientific measurement, such as the wavelength of light? Discuss your thoughts on this.
 
 **Final Journal Requirement:**
 
