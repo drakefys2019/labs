@@ -33,7 +33,7 @@ Rules and understanding shift beneath your feet as you wade through the murky de
 : ![Audio Log 2](captures/audio_log_2.jpg#audio_log)
 
 ### Effaced Assumptions
-As you navigate through the increasing complex puzzles of the swamp area, consider how your understanding of these puzzles rules morphs over time.
+As you navigate through the increasingly complex puzzles of the swamp area, consider how your understanding of the rules morphs over time.
 <br><br>
 ![Insight Image 1](captures/insight_1.jpg#capture)
 
@@ -143,7 +143,7 @@ Arthur Eddington, 1927
 
 ### [Zhuangzi](https://plato.stanford.edu/entries/zhuangzi/)
 
-Navigate the small boat towards the Jungle to catch a glimpse of an audio log excerpt by Zhuangzi tucked away in a derelect shipwreck.
+Navigate the small boat toward the Jungle to catch a glimpse of an audio log excerpt by Zhuangzi tucked away in a derelect shipwreck.
 
 <button onclick="collapseExcerpt2()">View Excerpt</button>
 
