@@ -8,20 +8,20 @@ dependencies:
 - helpers
 ---
 
-# **The Witness: Lab 07**
+# **The Witness: Lab 08**
 
 ![Header Image 1](captures/header.jpg#header)
-# The Greenhouse
+# The Swamp
 
-Seeing is believing in this illusory greenhouse of myriad hues.
+Rules and understanding shift beneath your feet as you wade through the murky depths of The Swamp.
 
 ## <center>You Are Here</center>
 
-![Witness Map Lab 7](captures/Witness_Map_Lab7.jpg#capture)
+![Witness Map Lab 8](captures/Witness_Map_Lab8.jpg#capture)
 
 ### Key Insights
 
-| [Filtered Information](#filtered-information) | [Coalescent Colors](#coalescent-colors) | [Sunlit Sagacity](#sunlit-sagacity) |
+| [Effaced Assumptions](#effaced-assumptions) | [Terrain Manipulation](#terrain-manipulation) | [Submerged Symbology](#submerged-symbology) |
 |:-:|:-:|:-:|
 |![Thumbnail 1](captures/insight_1.jpg#thumbnail)| ![Thumbnail 2](captures/insight_2.jpg#thumbnail)| ![Thumbnail 3](captures/insight_3.jpg#thumbnail)|
 
@@ -29,67 +29,111 @@ Seeing is believing in this illusory greenhouse of myriad hues.
 
 - [Arthur Eddington](#arthur-eddington):
 : ![Audio Log 1](captures/audio_log_1.jpg#audio_log)
+- [Zhuangzi](#zhuangzi):
+: ![Audio Log 2](captures/audio_log_2.jpg#audio_log)
 
-### Filtered Information
-
+### Effaced Assumptions
+As you navigate through the increasing complex puzzles of the swamp area, consider how your understanding of these puzzles rules morphs over time.
+<br><br>
 ![Insight Image 1](captures/insight_1.jpg#capture)
 
-<span style="color: blue">Group Discussion: What role do these filtered panels play in the greenhouse?</span>
+<span style="color: blue">Group Discussion: What is an early assumption you made about these puzzles that turned out to be misleading?</span>
 
-### Coalescent Colors
-There are many vibrantly hued plants scattered on and across the greenhouse.
+### Terrain Manipulation
+Progress in the swamp is dependent on your ability to transform the topography.
 <br><br>
 ![Insight Image 2](captures/insight_2.jpg#capture)
 
-<span style="color: blue">Group Discussion: What specific sections of plant life aid in furthering your understanding of [color theory](https://colormatters.com/color-and-design/basic-color-theory)?</span>
+<span style="color: blue">Group Discussion: How does the relationship between environmental change and puzzle solving aid in, or hinder, your understanding of this area?</span>
 
-### Sunlit Sagacity
+### Submerged Symbology
+Travel beneath the muddy marshland to discover more puzzles of inverse division.
 <br><br>
 ![Insight Image 3](captures/insight_3.jpg#capture)
 
-<span style="color: blue">Group Discussion: How do changes in environment lighting effect your ability to perceive colors accurately?</span>
+<span style="color: blue">Group Discussion: Do you find these puzzles easier because of knowledge gained from above?</span>
 
 ### [Arthur Eddington](https://psychology.fas.harvard.edu/people/b-f-skinner)
 
-Find a way to access this primary green level to hear a musing by Arthur Eddington and his thoughts on the people of [Laputa](https://en.wikipedia.org/wiki/Laputa).
+Peruse the coastal perimeter of the swamp to discover this audio log excerpt by Arthur Eddington on the nature of intimate and symbolic knowledge.
 
 <button onclick="collapseExcerpt1()">View Excerpt</button>
 
 <div id="excerpt1" style="display:none">
-As scientists, we realise that colour is merely a question
-of the wavelengths of aethereal vibrations,
 
-but that does not seem to have dispelled the feeling
-that eyes which reflect light near wavelength 4800
-are a subject for rhapsody
+We have two kinds of knowledge which I call symbolic and intimate.
 
-whilst those which reflect wavelength 5300
-are left unsung.
+I do not know whether it would be correct to say
+that reasoning is only applicable to symbolic knowledge,
 
-We have not yet reached the practice of the Laputans, who,
-“if they would, for example, praise the beauty of a
-woman, or any other animal,
+but the more customary forms of reasoning
+have been developed for symbolic knowledge only.
 
-they describe it by rhombs, circles,
-parallelograms, ellipses, and other geometrical terms.”
+The intimate knowledge will not submit to codification and analysis,
+or, rather, when we attempt to analyse it
+the intimacy is lost and replaced by symbolism.
 
-The materialist who is convinced that all phenomena
-arise from electrons and quanta and the like
-controlled by mathematical formulae,
+For an illustration let us consider Humour.
 
-must presumably hold the belief
-that his wife is a rather elaborate differential equation,
+I suppose that humour can be analysed to some extent
+and the essential ingredients
+of the different kinds of wit classified.
 
-but he is probably tactful enough
-not to obtrude this opinion in domestic life.
+Suppose that we are offered an alleged joke.
+We subject it to scientific analysis
+as we would a chemical salt of doubtful nature,
 
-If this kind of scientific dissection
-is felt to be inadequate and irrelevant
-in ordinary personal relationships,
+and perhaps after careful consideration
+we are able to confirm
+that it really and truly is a joke.
 
-it is surely out of place
-in the most personal relationship of all —
-that of the human soul to a divine spirit.
+Logically, I suppose, our next procedure would be to laugh.
+
+But it may certainly be predicted
+that as the result of this scrutiny
+we shall have lost all inclination we ever had
+to laugh at it.
+
+It simply does not do to expose the workings of a joke.
+
+The classification concerns a symbolic knowledge of humour
+which preserves all the characteristics of a joke
+except its laughableness.
+
+The real appreciation must come spontaneously,
+not introspectively.
+
+I think this is a not unfair analogy
+for our mystical feeling for Nature,
+
+and I would venture even to apply it
+to our mystical experience of God.
+
+There are some to whom the sense
+of a divine presence irradiating the soul
+is one of the most obvious things of experience.
+
+In their view, a man without this sense
+is to be regarded
+as we regard a man without a sense of humour.
+
+The absence is a kind of mental deficiency.
+
+We may try to analyse the experience as we analyse humour,
+and construct a theology,
+or it may be an atheistic philosophy...
+
+But let us not forget that the theology is symbolic knowledge,
+whereas the experience is intimate knowledge.
+
+And as laughter cannot be compelled
+by the scientific exposition of the structure of a joke,
+
+so a philosophic discussion of the attributes of God
+(or an impersonal substitute)
+
+is likely to miss the intimate response of the spirit
+which is the central point of the religious experience.
 
 <br>---<br>
 Arthur Eddington, 1927
@@ -97,7 +141,44 @@ Arthur Eddington, 1927
 
 ![Audio Log 1](captures/audio_log_1.jpg#capture)
 
-### Completing Lab 7
+### [Zhuangzi](https://plato.stanford.edu/entries/zhuangzi/)
+
+Navigate the small boat towards the Jungle to catch a glimpse of an audio log excerpt by Zhuangzi tucked away in a derelect shipwreck.
+
+<button onclick="collapseExcerpt2()">View Excerpt</button>
+
+<div id="excerpt2" style="display:none">
+
+Suppose a boat is crossing a river,
+and another empty boat is about to collide with it.
+
+Even an irritable man would not lose his temper.
+
+But supposing there was some one in the second boat.
+Then the occupant of the first
+would shout to him to keep clear.
+
+And if the other did not hear the first time,
+nor even when called three times,
+bad language would inevitably follow.
+
+In the first case there was no anger,
+in the second there was;
+
+because in the first case the boat was empty,
+and in the second it was occupied.
+
+And so it is with man.
+If he could only roam empty through life,
+who would be able to injure him?
+
+<br>---<br>
+Zhuangzi, 4th century B.C.
+</div>
+
+![Audio Log 2](captures/audio_log_2.jpg#capture)
+
+### Completing Lab 8
 
 This part of the island is complete when the final puzzle is solved and the laser fires into the sky. Nice work!
 
@@ -107,20 +188,20 @@ This part of the island is complete when the final puzzle is solved and the lase
 
 Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Choose one of the prompts below (either 1, 2, or 3) to respond to in your journal entry.
 
-1. ##### **Alternate Perceptions**
-  - ##### Detail your procedure for solving the puzzles on the first floor of the greenhouse.
-  - ##### What environmental clues aided or hindered your completion of this section of the greenhouse? Explain.
-  - ##### How does the level of difficulty change when you perceive the problem in a different light?
+1. ##### **Assurance in Understanding**
+  - ##### Consider [Arthur Eddington's explanation](#arthur-eddington) of intimate and symbolic knowledge.
+  - ##### In what ways does the swamp teach you how to solve puzzles without specifically pronouncing the rules?
+  - ##### Discuss a specific puzzle, or section of puzzles, in the swamp that, upon completion, gave you insight over the rules that govern this area.
 
-2. ##### **An Elevated Experience**
-  - ##### Contemplate the puzzle challenges built into the elevator sequence in the greenhouse.
-  - ##### What lesson(s) does this section of the area convey to you? Explain.
-  - ##### What information is "lost" because of the broken power line? How did you "regain" this information?
+2. ##### **Prior Knowledge Applied**
+  - ##### Consider the shift in approach you had to invoke for the flooded sections of the swamp.
+  - ##### Did you find these puzzles easier to solve after acquiring a deeper understanding from the panels above? Explain.
+  - ##### What in particular makes these submerged puzzles challenging to solve? Explain.
 
-3. ##### **A Theory of Color**
-  - ##### Does the greenhouse help players to understand [color theory](https://colormatters.com/color-and-design/basic-color-theory)? Explain.
-  - ##### What previous lessons from The Witness, in combination with lessons learned from this area, helped you to complete these puzzles?
-  - ##### Consider [Arthur Eddington's thoughts](#arthur-eddington) on perceiving the World through purely scientific means. Can life be summarized solely through scientific measurement, such as the wavelength of light? Discuss your thoughts on this.
+3. ##### **A Fluid Methodology**
+  - ##### Many of the puzzles in the swamp require multiple attempts before the solution is found.
+  - ##### Explain the procedures you used to solve the puzzles in any area of the swamp. Did you sketch, guess and check, visualize solutions in your mind, etc.?
+  - ##### What processes seemed to be the most effective for solving the problems? Explain why.
 
 **Final Journal Requirement:**
 
