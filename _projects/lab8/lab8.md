@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "LAB 7"
+title:  "LAB 8"
 date:   2019-05-06
 thumbnail: captures/header.jpg
-visible: true
+visible: false
 dependencies:
 - helpers
 ---
