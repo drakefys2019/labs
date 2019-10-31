@@ -33,7 +33,7 @@ Rules and understanding shift beneath your feet as you wade through the murky de
 : ![Audio Log 2](captures/audio_log_2.jpg#audio_log)
 
 ### Effaced Assumptions
-As you navigate through the increasingly complex puzzles of the swamp area, consider how your understanding of the rules morphs over time.
+As you navigate through the increasingly complex puzzles of the swamp area, consider how your understanding of these puzzles rules morphs over time.
 <br><br>
 ![Insight Image 1](captures/insight_1.jpg#capture)
 
@@ -47,7 +47,7 @@ Progress in the swamp is dependent on your ability to transform the topography.
 <span style="color: blue">Group Discussion: How does the relationship between environmental change and puzzle solving aid in, or hinder, your understanding of this area?</span>
 
 ### Submerged Symbology
-Travel beneath the muddy marshland to discover more puzzles of inverse division.
+Descend beneath the muddy marshland to discover more panels of puzzling geometry.
 <br><br>
 ![Insight Image 3](captures/insight_3.jpg#capture)
 
@@ -143,7 +143,7 @@ Arthur Eddington, 1927
 
 ### [Zhuangzi](https://plato.stanford.edu/entries/zhuangzi/)
 
-Navigate the small boat toward the Jungle to catch a glimpse of an audio log excerpt by Zhuangzi tucked away in a derelect shipwreck.
+Navigate the small boat towards the Jungle to catch a glimpse of an audio log excerpt by Zhuangzi tucked away in a derelect shipwreck.
 
 <button onclick="collapseExcerpt2()">View Excerpt</button>
 
@@ -194,7 +194,7 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
   - ##### Discuss a specific puzzle, or section of puzzles, in the swamp that, upon completion, gave you insight over the rules that govern this area.
 
 2. ##### **Prior Knowledge Applied**
-  - ##### Consider the shift in approach you had to invoke for the flooded sections of the swamp.
+  - ##### Consider the shift in approach you had to invoke for the underwater sections of the swamp.
   - ##### Did you find these puzzles easier to solve after acquiring a deeper understanding from the panels above? Explain.
   - ##### What in particular makes these submerged puzzles challenging to solve? Explain.
 
