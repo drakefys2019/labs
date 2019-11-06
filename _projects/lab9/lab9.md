@@ -256,6 +256,11 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
   - ##### Explain what first lead you to assume certain rules applied.
   - ##### How do the rules of this puzzle differ from your expectations? Explain.
 
+4. ##### **Enigmatic Symbolism**
+  - ##### Each section in the treehouse is full of symbolic combinations.
+  - ##### List and explain what each symbol means in this area.
+  - ##### For any given puzzle, how do the combinations of symbols add to the complexity of finding the solution? Describe a specific puzzle where the presence of certain symbols inhibited solving in an ideal way, or directed you towards a unique solution. 
+
 **Final Journal Requirement:**
 
 After responding to one of the items above, discuss the solution to a particular puzzle that challenged you. Explain the mechanics of this puzzle in detail and how you came to understand them. If it helps, feel free to include screenshots or sketches of the puzzle.
