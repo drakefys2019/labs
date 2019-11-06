@@ -21,7 +21,7 @@ Branching pathways twist through stoic tree tops in this unfolding labyrinth abo
 
 ### Key Insights
 
-| [Realized Representations](#realized-representations) | [Terrain Manipulation](#terrain-manipulation) | [Polymorphic Pathways](#polymorphic-pathways) |
+| [Realized Representations](#realized-representations) | [Entangled Erudition](#entangled-erudition) | [Polymorphic Pathways](#polymorphic-pathways) |
 |:-:|:-:|:-:|
 |![Thumbnail 1](captures/insight_1.jpg#thumbnail)| ![Thumbnail 2](captures/insight_2.jpg#thumbnail)| ![Thumbnail 3](captures/insight_3.jpg#thumbnail)|
 
@@ -36,6 +36,10 @@ Branching pathways twist through stoic tree tops in this unfolding labyrinth abo
 - [Gangaji](#gangaji):
 : ![Audio Log 4](captures/audio_log_4.jpg#audio_log)
 
+| [Bonus Puzzle 1](#bonus-puzzle-1) | [Bonus Puzzle 2](#bonus-puzzle-2) |
+|:-:|:-:|
+|![Bonus Thumbnail 1](captures/bonus_1.jpg#thumbnail)| ![Bonus Thumbnail 2](captures/bonus_2.jpg#thumbnail)|
+
 ### Realized Representations
 The treehouse  area is full of symbols and shapes of all kinds.
 <br><br>
@@ -43,12 +47,12 @@ The treehouse  area is full of symbols and shapes of all kinds.
 
 <span style="color: blue">Group Discussion: What do each of these symbols imply in the context of this puzzle?</span>
 
-### Terrain Manipulation
-Progress in the swamp is dependent on your ability to transform the topography.
+### Entangled Erudition
+Solving these puzzles requires a firm understanding of rules acquired not just in this area but throughout the island.
 <br><br>
 ![Insight Image 2](captures/insight_2.jpg#capture)
 
-<span style="color: blue">Group Discussion: How does the relationship between environmental change and puzzle solving aid in, or hinder, your understanding of this area?</span>
+<span style="color: blue">Group Discussion: How do you contend with the increasing complexity of these challenges? What might you do to remind yourself of the meaning of these symbols?</span>
 
 ### Polymorphic Pathways
 Activate this simple panel to gain access to the laser area.
@@ -59,7 +63,7 @@ Activate this simple panel to gain access to the laser area.
 
 ### [William Wordsworth](https://poets.org/poet/william-wordsworth)
 
-[TEMP]
+Approaching the treehouse from the swamp, keep a keen eye out for this poetic excerpt by William Wordsworth.
 
 <button onclick="collapseExcerpt1()">View Excerpt</button>
 
@@ -90,7 +94,7 @@ William Wordsworth, 1888
 
 ### [Niffari](https://www.chisholme.org/resources/overview/niffari.html)
 
-[TEMP]
+Stare into the murky abyss as you contemplate this audio log excerpt by Muhammad Ibn’Abdi’l-Jabbar Al-Niffari.
 
 <button onclick="collapseExcerpt2()">View Excerpt</button>
 
@@ -132,7 +136,7 @@ Niffari, circa 970
 
 ### [Rupert Brooke](https://www.poetryfoundation.org/poets/rupert-brooke)
 
-[TEMP]
+Gaze upon the prismatic colors of this ocean view as you absorb an audio log excerpt by Rupert Brooke.
 
 <button onclick="collapseExcerpt3()">View Excerpt</button>
 
@@ -167,7 +171,7 @@ Rupert Brooke, 1914
 
 ### [Gangaji](https://gangaji.org/)
 
-[TEMP]
+Rearrange the green pathway to spot this audio log excerpt by Gangaji tucked into the crevice of a treehouse structure.
 
 <button onclick="collapseExcerpt4()">View Excerpt</button>
 
@@ -206,6 +210,18 @@ Gangaji, 2009
 
 ![Audio Log 4](captures/audio_log_4.jpg#capture)
 
+### Bonus Puzzle 1
+The green pathway may be altered to allow access to this mysterious puzzle.
+<br><br>
+![Bonus Image 1](captures/bonus_1.jpg#capture)
+
+### Bonus Puzzle 2
+Manipulating an orange pathway is the only way to this cryptic panel.
+<br><br>
+![Bonus Image 2](captures/bonus_2.jpg#capture)
+
+<span style="color: blue">Group Discussion: Do these two discarded panels give any insight into their purpose? What might the triangle symbol mean?</span>
+
 ### Completing Lab 9
 
 This part of the island is complete when the final puzzle is solved and the laser fires into the sky. Nice work!
@@ -216,20 +232,29 @@ This part of the island is complete when the final puzzle is solved and the lase
 
 Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Choose one of the prompts below (either 1, 2, or 3) to respond to in your journal entry.
 
-1. ##### **Assurance in Understanding**
-  - ##### Consider [Arthur Eddington's explanation](#arthur-eddington) of intimate and symbolic knowledge.
-  - ##### In what ways does the swamp teach you how to solve puzzles without specifically pronouncing the rules?
-  - ##### Discuss a specific puzzle, or section of puzzles, in the swamp that, upon completion, gave you insight over the rules that govern this area.
 
-2. ##### **Prior Knowledge Applied**
-  - ##### Consider the shift in approach you had to invoke for the underwater sections of the swamp.
-  - ##### Did you find these puzzles easier to solve after acquiring a deeper understanding from the panels above? Explain.
-  - ##### What in particular makes these submerged puzzles challenging to solve? Explain.
+### Audio Logs
 
-3. ##### **A Fluid Methodology**
-  - ##### Many of the puzzles in the swamp require multiple attempts before the solution is found.
-  - ##### Explain the procedures you used to solve the puzzles in any area of the swamp. Did you sketch, guess and check, visualize solutions in your mind, etc.?
-  - ##### What processes seemed to be the most effective for solving the problems? Explain why.
+1. ##### **Prominent Experience**
+
+  - ##### Pick one of the 4 audio log excerpts found in this area:
+    - [William Wordsworth](#william-wordsworth)
+    - [Niffari](#niffari)
+    - [Rupert Brooke](#rupert-brooke)
+    - [Gangaji](#gangaji)
+
+  - ##### How does your chosen excerpt relate to your experience solving the treehouse puzzles? Explain.
+  - ##### In what way does your chosen excerpt relate to your experience thus far playing The Witness? Explain.
+
+2. ##### **Bridges to Understanding**
+  - ##### The treehouse area has many lessons to teach.
+  - ##### How does the process of completing any bridge in this area help to cement your understanding of the rules?
+  - ##### Discuss a specific bridge in the treehouse area, why you found it particularly challenging, and what strategies lead to your ability to complete this section.
+
+3. ##### **A False Impression**
+  - ##### Describe a section of puzzles in the treehouse that turned out to be solvable in a way you first assumed would not work.
+  - ##### Explain what first lead you to assume certain rules applied.
+  - ##### How do the rules of this puzzle differ from your expectations? Explain.
 
 **Final Journal Requirement:**
 
