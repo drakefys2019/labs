@@ -232,9 +232,6 @@ This part of the island is complete when the final puzzle is solved and the lase
 
 Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Choose one of the prompts below (either 1, 2, 3, or 4) to respond to in your journal entry.
 
-
-### Audio Logs
-
 1. ##### **Prominent Experience**
 
     - ##### Find and listen to all 4 audio log excerpts found in this area: (Note that some audio logs are hidden behind locked panels or alternate pathways.)
