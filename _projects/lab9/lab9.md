@@ -230,25 +230,25 @@ This part of the island is complete when the final puzzle is solved and the lase
 
 ### The Witness Journal Entry #9
 
-Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Choose one of the prompts below (either 1, 2, or 3) to respond to in your journal entry.
+Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Choose one of the prompts below (either 1, 2, 3, or 4) to respond to in your journal entry.
 
 
 ### Audio Logs
 
 1. ##### **Prominent Experience**
 
-  - ##### Pick one of the 4 audio log excerpts found in this area:
-    - [William Wordsworth](#william-wordsworth)
-    - [Niffari](#niffari)
-    - [Rupert Brooke](#rupert-brooke)
-    - [Gangaji](#gangaji)
+    - ##### Find and listen to all 4 audio log excerpts found in this area: (Note that some audio logs are hidden behind locked panels or alternate pathways.)
+      - [William Wordsworth](#william-wordsworth)
+      - [Niffari](#niffari)
+      - [Rupert Brooke](#rupert-brooke)
+      - [Gangaji](#gangaji)
 
-  - ##### How does your chosen excerpt relate to your experience solving the treehouse puzzles? Explain.
-  - ##### In what way does your chosen excerpt relate to your experience thus far playing The Witness? Explain.
+    - ##### How does your chosen excerpt relate to your experience solving the treehouse puzzles? Explain.
+    - ##### In what way does your chosen excerpt relate to your experience thus far playing The Witness? Explain.
 
 2. ##### **Bridges to Understanding**
-  - ##### The treehouse area has many lessons to teach.
-  - ##### How does the process of completing any bridge in this area help to cement your understanding of the rules?
+  - ##### The treehouse area has many lessons to teach. Discuss an insight you gained from completing the treehouse that has helped you to understand previous sections of the game you found confusing.
+  - ##### How does the process of completing any bridge in the treehouse help to cement your understanding of the rules?
   - ##### Discuss a specific bridge in the treehouse area, why you found it particularly challenging, and what strategies lead to your ability to complete this section.
 
 3. ##### **A False Impression**
@@ -257,9 +257,9 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
   - ##### How do the rules of this puzzle differ from your expectations? Explain.
 
 4. ##### **Enigmatic Symbolism**
-  - ##### Each section in the treehouse is full of symbolic combinations.
-  - ##### List and explain what each symbol means in this area.
-  - ##### For any given puzzle, how do the combinations of symbols add to the complexity of finding the solution? Describe a specific puzzle where the presence of certain symbols inhibited solving in an ideal way, or directed you towards a unique solution. 
+  - ##### Each section in the treehouse is full of symbolic combinations. Please list each symbol you encountered in completing the treehouse, and what rules each symbol conveys.
+  - ##### For any given puzzle, how do the combinations of symbols add to the complexity of finding the solution?
+  - ##### Describe a specific puzzle where the presence of certain symbols inhibited solving in an ideal way, or directed you towards a unique solution.
 
 **Final Journal Requirement:**
 
