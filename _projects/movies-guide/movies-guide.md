@@ -2,7 +2,7 @@
 layout: post
 title:  "Movies Guide"
 date:   2019-05-06
-thumbnail: captures/Header.png
+thumbnail: captures/header.jpg
 visible: true
 dependencies:
 - helpers
@@ -10,7 +10,7 @@ dependencies:
 
 # **The Witness: Movie Theater**
 
-![Header Image 1](captures/Header.png#header)
+![Header Image 1](captures/header.jpg#header)
 # Chest and Movie Location Guide
 
 There are 6 locations throughout the island of The Witness that contain a coded message, locked in a chest, behind a puzzle door. The information contained within each of these chests allows the player to view extended video sequences, similar to the audio logs, in a movie theater located underneath the windmill in the "Town" section of the island.
