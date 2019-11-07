@@ -228,7 +228,7 @@ This part of the island is complete when the final puzzle is solved and the lase
 
 ![Laser Capture Image](captures/laser_capture.jpg#header)
 
-### The Witness Journal Entry #9
+<!-- ### The Witness Journal Entry #9
 
 Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Choose one of the prompts below (either 1, 2, 3, or 4) to respond to in your journal entry.
 
@@ -256,8 +256,8 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
 4. ##### **Enigmatic Symbolism**
   - ##### Each section in the treehouse is full of symbolic combinations. Please list each symbol you encountered in completing the treehouse, and what rules each symbol conveys.
   - ##### For any given puzzle, how do the combinations of symbols add to the complexity of finding the solution?
-  - ##### Describe a specific puzzle where the presence of certain symbols inhibited solving in an ideal way, or directed you towards a unique solution.
+  - ##### Describe a specific puzzle where the presence of certain symbols inhibited solving it in an ideal way or directed you toward a unique solution.
 
 **Final Journal Requirement:**
 
-After responding to one of the items above, discuss the solution to a particular puzzle that challenged you. Explain the mechanics of this puzzle in detail and how you came to understand them. If it helps, feel free to include screenshots or sketches of the puzzle.
+After responding to one of the items above, discuss the solution to a particular puzzle that challenged you. Explain the mechanics of this puzzle in detail and how you came to understand them. If it helps, feel free to include screenshots or sketches of the puzzle. -->
