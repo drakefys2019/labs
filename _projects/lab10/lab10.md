@@ -53,11 +53,11 @@ Consider these two panel sections below:
 <br>
 
 Partitions from the quarry.
-<br>
+<br><br>
 ![Insight Image 3A](captures/insight_3A.jpg#capture)
 
 Explosion groupings from the logging facility.
-<br>
+<br><br>
 ![Insight Image 3B](captures/insight_3B.jpg#capture)
 
 <span style="color: blue">Group Discussion: Though both of these puzzles utilize multiple colors and similar rules, solutions are quite different. How do your tactics differ in solving these two types of panels?</span>
