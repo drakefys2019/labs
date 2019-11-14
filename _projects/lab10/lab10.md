@@ -93,7 +93,7 @@ Hugh Kingsmill, 1944
 ![Audio Log 1](captures/audio_log_1.jpg#capture)
 
 ### Bonus Puzzle
-A familiar-looking discarded panel can be found tucked beneath the air ducts of the quarry rooftop. 
+A familiar-looking discarded panel can be found tucked beneath the air ducts of the quarry rooftop.
 <br><br>
 ![Bonus Image 1](captures/bonus_1.jpg#capture)
 
@@ -108,7 +108,7 @@ Step lightly through the shallows of the river's end and enter into the logging 
 |:-:|:-:|:-:|
 |![Thumbnail 4](captures/insight_4.jpg#thumbnail)| ![Thumbnail 5](captures/insight_5.jpg#thumbnail)| ![Thumbnail 6](captures/insight_6.jpg#thumbnail)|
 
-### Tested Recollection
+### Tested Recollections
 To progress further into the pondering of the logging facility, complete each of these two challenging panels.
 <br><br>
 ![Insight Image 4](captures/insight_4.jpg#capture)
@@ -129,7 +129,7 @@ In each of these puzzles, a rule must be ignored.
 
 <span style="color: blue">Group Discussion: What clues do these panels offer to guide you towards the correct solution? How do combinations of certain symbols dictate what can and cannot be done to solve the panel?</span>
 
-### Completing Lab 9
+### Completing Lab 10
 
 This part of the island is complete when the final puzzle is solved and the laser fires into the sky. Nice work!
 
