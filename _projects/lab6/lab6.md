@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "LAB 6"
+order: 6
 date:   2019-05-06
 thumbnail: captures/header.jpg
 visible: true
