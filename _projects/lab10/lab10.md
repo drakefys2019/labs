@@ -136,36 +136,26 @@ This part of the island is complete when the final puzzle is solved and the lase
 
 ![Laser Capture Image](captures/laser_capture.jpg#header)
 
-<!-- ### The Witness Journal Entry #10
+### The Witness Journal Entry #10
 
-Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Choose one of the prompts below (either 1, 2, 3, or 4) to respond to in your journal entry.
+Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Choose one of the prompts below (either 1, 2, or 3) to respond to in your journal entry.
 
-1. ##### **Prominent Experience**
+1. ##### **Environment and Symbolism**
 
-    - ##### Find and listen to all 4 audio log excerpts found in this area: (Note that some audio logs are hidden behind locked panels or alternate pathways.)
-      - [William Wordsworth](#william-wordsworth)
-      - [Niffari](#niffari)
-      - [Rupert Brooke](#rupert-brooke)
-      - [Gangaji](#gangaji)
+    - ##### Does the quarry contain more environmental or symbolic puzzles? Explain.
+    - ##### Is this area more challenging or simpler because it is predominantly a series of symbolic challenges? Explain.
+    - ##### Discuss another area of The Witness where the challenges were mostly environmental and explain your difference in problem-solving approach to that area in comparison to the quarry.
 
-    - ##### How does your chosen excerpt relate to your experience solving the treehouse puzzles? Explain.
-    - ##### In what way does your chosen excerpt relate to your experience thus far playing The Witness? Explain.
+2. ##### **A Rule Negated**
+  - ##### The quarry introduces us to the negation symbol. Explain how this symbol behaves in the quarry area's puzzles.
+  - ##### What additional challenge does the introduction of this symbol add to solving the puzzle panels?
+  - ##### In learning about this new symbol, have you gained any further insight into understanding the other symbols used in the quarry? (hexagon, tetris blocks, colored blocks, starbursts, etc.) Explain.
 
-2. ##### **Bridges to Understanding**
-  - ##### The treehouse area has many lessons to teach. Discuss an insight you gained from completing the treehouse that has helped you to understand previous sections of the game you found confusing.
-  - ##### How does the process of completing any bridge in the treehouse help to cement your understanding of the rules?
-  - ##### Discuss a specific bridge in the treehouse area, why you found it particularly challenging, and what strategies lead to your ability to complete this section.
-
-3. ##### **A False Impression**
-  - ##### Describe a section of puzzles in the treehouse that turned out to be solvable in a way you first assumed would not work.
-  - ##### Explain what first lead you to assume certain rules applied.
-  - ##### How do the rules of this puzzle differ from your expectations? Explain.
-
-4. ##### **Enigmatic Symbolism**
-  - ##### Each section in the treehouse is full of symbolic combinations. Please list each symbol you encountered in completing the treehouse, and what rules each symbol conveys.
-  - ##### For any given puzzle, how do the combinations of symbols add to the complexity of finding the solution?
-  - ##### Describe a specific puzzle where the presence of certain symbols inhibited solving it in an ideal way or directed you toward a unique solution.
+3. ##### **On Learning**
+  - ##### The quarry and the logging facility offer two perspectives into furthering your symbolic understanding. Which of the two areas did you find to be more challenging? Explain.
+  - ##### When presented with certain combinations of symbols, what specific combinations do you find to be the most challenging and why?
+  - ##### What additional problem solving techniques did you come up with that were novel to this area of The Witness?
 
 **Final Journal Requirement:**
 
-After responding to one of the items above, discuss the solution to a particular puzzle that challenged you. Explain the mechanics of this puzzle in detail and how you came to understand them. If it helps, feel free to include screenshots or sketches of the puzzle. -->
+After responding to one of the items above, discuss the solution to a particular puzzle that challenged you. Explain the mechanics of this puzzle in detail and how you came to understand them. If it helps, feel free to include screenshots or sketches of the puzzle.
