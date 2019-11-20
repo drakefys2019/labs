@@ -142,12 +142,12 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
 
 1. ##### **Environment and Symbolism**
 
-    - ##### Does the quarry contain more environmental or symbolic puzzles? Explain.
-    - ##### Is this area more challenging or simpler because it is predominantly a series of symbolic challenges? Explain.
-    - ##### Discuss another area of The Witness where the challenges were mostly environmental and explain your difference in problem-solving approach to that area in comparison to the quarry.
+    - ##### Does the quarry contain more environment-based or symbolic-based puzzles? Explain.
+    - ##### Is this area more challenging or simpler for you because of the types of puzzles it contains? Explain.
+    - ##### Discuss another area of The Witness where the challenges were mostly environmental-based or mostly symbolic-based and explain the differences or similarities in problem-solving approach to that area in comparison to the quarry.
 
 2. ##### **A Rule Negated**
-  - ##### The quarry introduces us to the negation symbol. Explain how this symbol behaves in the quarry area's puzzles.
+  - ##### The quarry introduces us to a new symbol. Explain how this symbol behaves in the quarry area's puzzles.
   - ##### What additional challenge does the introduction of this symbol add to solving the puzzle panels?
   - ##### In learning about this new symbol, have you gained any further insight into understanding the other symbols used in the quarry? (hexagon, tetris blocks, colored blocks, starbursts, etc.) Explain.
 
