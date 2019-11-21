@@ -110,7 +110,7 @@ Step lightly through the shallows of the river's end and enter into the logging 
 |![Thumbnail 4](captures/insight_4.jpg#thumbnail)| ![Thumbnail 5](captures/insight_5.jpg#thumbnail)| ![Thumbnail 6](captures/insight_6.jpg#thumbnail)|
 
 ### Tested Recollections
-To progress further into the pondering of the logging facility, complete each of these two challenging panels.
+To progress further into the mysteries of the logging facility, complete each of these two familiar-looking panels.
 <br><br>
 ![Insight Image 4](captures/insight_4.jpg#capture)
 
@@ -140,21 +140,21 @@ This part of the island is complete when the final puzzle is solved and the lase
 
 Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Choose one of the prompts below (either 1, 2, or 3) to respond to in your journal entry.
 
-1. ##### **Environment and Symbolism**
+1. ##### **A Rule Negated**
+  - ##### This lab introduces us to a new symbol. Explain how this symbol behaves in the area's puzzles.
+  - ##### What additional challenge does the introduction of this symbol add to solving the puzzle panels? Explain.
+  - ##### In learning about this new symbol, have you gained any further insight into understanding the other symbols used in the quarry or elsewhere in The Witness? (i.e. hexagons, tetris blocks, colored blocks, starbursts, etc.) Explain.
 
-    - ##### Does the quarry contain more environment-based or symbolic-based puzzles? Explain.
-    - ##### Is this area more challenging or simpler for you because of the types of puzzles it contains? Explain.
-    - ##### Discuss another area of The Witness where the challenges were mostly environmental-based or mostly symbolic-based and explain the differences or similarities in problem-solving approach to that area in comparison to the quarry.
-
-2. ##### **A Rule Negated**
-  - ##### The quarry introduces us to a new symbol. Explain how this symbol behaves in the quarry area's puzzles.
-  - ##### What additional challenge does the introduction of this symbol add to solving the puzzle panels?
-  - ##### In learning about this new symbol, have you gained any further insight into understanding the other symbols used in the quarry? (hexagon, tetris blocks, colored blocks, starbursts, etc.) Explain.
-
-3. ##### **On Learning**
-  - ##### The quarry and the logging facility offer two perspectives into furthering your symbolic understanding. Which of the two areas did you find to be more challenging? Explain.
+2. ##### **On Learning**
+  - ##### The quarry and the logging facility offer two perspectives into furthering your understanding of symbol-based puzzles. Between the quarry and the logging facility, which of these two areas did you find to be more challenging and why? Explain.
   - ##### When presented with certain combinations of symbols, what specific combinations do you find to be the most challenging and why?
   - ##### What additional problem solving techniques did you come up with that were novel to this area of The Witness?
+
+3. ##### **Devious Devices**
+
+    - ##### There are multiple mechanical contraptions that need to be manipulated to progress through this area. Identify all of these mechanized items.
+    - ##### How do these malleable machines mirror the puzzle panels that control them? Explain.
+    - ##### In your opinion, does the ability to manipulate an object in the environment in a similar way to how you solve a puzzle panel help to further, or, contrarily, hinder your understanding of the puzzle mechanics in this area? Explain. 
 
 **Final Journal Requirement:**
 
