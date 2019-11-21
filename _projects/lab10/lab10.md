@@ -146,15 +146,15 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
   - ##### In learning about this new symbol, have you gained any further insight into understanding the other symbols used in the quarry or elsewhere in The Witness? (i.e. hexagons, tetris blocks, colored blocks, starbursts, etc.) Explain.
 
 2. ##### **On Learning**
-  - ##### The quarry and the logging facility offer two perspectives into furthering your understanding of symbol-based puzzles. Between the quarry and the logging facility, which of these two areas did you find to be more challenging and why? Explain.
-  - ##### When presented with certain combinations of symbols, what specific combinations do you find to be the most challenging and why?
+  - ##### The quarry and the logging facility offer two perspectives into furthering your understanding of symbol-based puzzles. Between the quarry and the logging facility, which of these two areas did you find to be more challenging? Explain.
+  - ##### When presented with certain combinations of symbols, what specific combinations do you find to be the most challenging? Why?
   - ##### What additional problem solving techniques did you come up with that were novel to this area of The Witness?
 
 3. ##### **Devious Devices**
 
     - ##### There are multiple mechanical contraptions that need to be manipulated to progress through this area. Identify all of these mechanized items.
     - ##### How do these malleable machines mirror the puzzle panels that control them? Explain.
-    - ##### In your opinion, does the ability to manipulate an object in the environment in a similar way to how you solve a puzzle panel help to further, or, contrarily, hinder your understanding of the puzzle mechanics in this area? Explain. 
+    - ##### Does your ability to manipulate a machine by solving a puzzle that resembles it help to further, or, contrarily, hinder your understanding of the puzzle mechanics in this area? Explain. 
 
 **Final Journal Requirement:**
 
