@@ -204,31 +204,31 @@ This part of the island is complete when the final puzzle is solved and the lase
 
 ### The Witness Journal Entry #1
 
-Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Your journal entry must include discussions on at least (1) of the following:
+Write a journal entry on what you learned from this lab. Pretend that you are a scientist exploring this island for the very first time. Choose one of the prompts below (either 1, 2, 3, 4, 5, or 6) to respond to in your journal entry.
 
-- ##### **A Puzzling Puzzle**
+1. ##### **A Puzzling Puzzle**
   - ##### After reflecting on a puzzle in this area, what was most confusing about it and why? Are there still aspects of the puzzle you don't understand? Explain.
   - ##### What approaches or techniques did you use to improve your understanding of the puzzle?
   - ##### Describe the feelings you experienced as you worked through your confusion to ultimately solve the puzzle.
-- ##### **Discovering The Nature of The Island**
+2. ##### **Discovering The Nature of The Island**
   - ##### What other signs of life or existence did you discover in this area that give clues to the nature of the island? Explain.
   - ##### Reflect on a part of the environment you found beautiful or strange. Why did it capture your attention? If it helps, you may include a screenshot here in addition (not substitution) to your written work.
   <!-- - ##### -->
-- ##### **Experiencing An "Aha!" Moment**
+3. ##### **Experiencing An "Aha!" Moment**
   - ##### Did you have an "Aha!" moment while you were attempting to solve any particular puzzle? Describe the moment when you finally figured it out.
   - ##### How do you think other puzzles in the area informed your approach to solving this one?
   - ##### How has your perception and understanding of the puzzle changed once you found the solution?
-- ##### **The Purpose of The Game**
+4. ##### **The Purpose of The Game**
   - ##### Do you have a theory on what the purpose of this game is? Explain it.
   - ##### Why are you here?
   - ##### What lessons have you taken away from playing this game so far?
-- ##### **Environmental Entwinement**
+5. ##### **Environmental Entwinement**
   - ##### Describe an aspect of the environment that improved your understanding of the puzzles.
   - ##### In what way did the environment assist you in understanding the nature of a given puzzle?
   - ##### How might the environment reflect properties of a puzzle or puzzles?
   - ##### How might this area's puzzles reflect aspects of the environment?
   - ##### Does the environment play a part in solving these puzzles? Explain the environment's role in this area, and how you discovered it.
-- ##### **Audio Log Reflections**
+6. ##### **Audio Log Reflections**
   - ##### Respond to the content of an audio log in this area. In your own words, explain the message behind the content of the log. What is the speaker trying to say? Do you agree with him or her?
   - ##### Why do you think these audio log(s) were chosen for this location of the game?
   - ##### In what way do the audio log(s) relate to the puzzles in this area?
