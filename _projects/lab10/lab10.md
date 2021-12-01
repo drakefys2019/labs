@@ -4,7 +4,7 @@ title:  "LAB 10"
 order: 10
 date:   2019-05-06
 thumbnail: captures/header.jpg
-visible: false
+visible: true
 dependencies:
 - helpers
 ---
