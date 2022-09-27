@@ -22,9 +22,9 @@ There are 6 locations throughout the island of The Witness that contain a coded 
 
 <button onclick="collapseExcerpt0()">Show Spoiler</button>
 
-<div markdown="1" id="excerpt0" style="display:none">
+<!-- <div markdown="1" id="excerpt0" style="display:none">
 ![Witness Map Lab 1](captures/ChestsMap.jpg#capture)
-</div>
+</div> -->
 
 ### Chest 1
 <button onclick="collapseExcerpt1()">Show Spoiler</button>
