@@ -18,7 +18,7 @@ Branching pathways twist through stoic tree tops in this unfolding labyrinth abo
 
 ## <center>You Are Here</center>
 
-![Witness Map Lab 9](captures/Witness_Map_Lab9.jpg#capture)
+<!-- ![Witness Map Lab 9](captures/Witness_Map_Lab9.jpg#capture) -->
 
 ### Key Insights
 

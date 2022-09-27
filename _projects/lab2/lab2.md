@@ -18,7 +18,7 @@ Just North of Symmetry Island, a bleached pile of ruins sits smoldering in the b
 
 ## <center>You Are Here</center>
 
-![Witness Map Lab 2](captures/Witness_Map_Lab2.jpg#capture)
+<!-- ![Witness Map Lab 2](captures/Witness_Map_Lab2.jpg#capture) -->
 
 Consider these aspects of the desert ruins:
 

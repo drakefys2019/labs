@@ -17,7 +17,7 @@ Across the lake from the monastery, rays of filtered sunlight cut through a patc
 
 ## <center>You Are Here</center>
 
-![Witness Map Lab 4](captures/Witness_Map_Lab4.jpg#capture)
+<!-- ![Witness Map Lab 4](captures/Witness_Map_Lab4.jpg#capture) -->
 
 ### Starting Point
 

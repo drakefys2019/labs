@@ -18,7 +18,7 @@ Rules and understanding shift beneath your feet as you wade through the murky de
 
 ## <center>You Are Here</center>
 
-![Witness Map Lab 8](captures/Witness_Map_Lab8.jpg#capture)
+<!-- ![Witness Map Lab 8](captures/Witness_Map_Lab8.jpg#capture) -->
 
 ### Key Insights
 
