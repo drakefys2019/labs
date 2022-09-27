@@ -16,7 +16,7 @@ Just West of our starting point, an abandoned glass factory may hold the key to 
 
 ## <center>You Are Here</center>
 
-![Witness Map Lab 1](captures/Witness_Map_Lab1.jpg#capture)
+<!-- ![Witness Map Lab 1](captures/Witness_Map_Lab1.jpg#capture) -->
 
 Consider these aspects of the factory environment:
 
