@@ -18,7 +18,7 @@ Seeing is believing in this illusory greenhouse of myriad hues.
 
 ## <center>You Are Here</center>
 
-<!-- ![Witness Map Lab 7](captures/Witness_Map_Lab7.jpg#capture) -->
+![Witness Map Lab 7](captures/Witness_Map_Lab7.jpg#capture)
 
 ### Key Insights
 

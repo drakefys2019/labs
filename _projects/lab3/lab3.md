@@ -17,7 +17,7 @@ Centered in the Southern section of the island, a zen monastery offers puzzling 
 
 ## <center>You Are Here</center>
 
-<!-- ![Witness Map Lab 1](captures/Witness_Map_Lab3.jpg#capture) -->
+![Witness Map Lab 1](captures/Witness_Map_Lab3.jpg#capture)
 
 Consider these aspects of the monastery environment:
 

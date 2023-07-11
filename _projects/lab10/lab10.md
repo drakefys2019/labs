@@ -18,7 +18,7 @@ Leave soft footprints in powdered stone as you meander through the puzzling inte
 
 ## <center>You Are Here</center>
 
-<!-- ![Witness Map Lab 10](captures/Witness_Map_Lab10.jpg#capture) -->
+![Witness Map Lab 10](captures/Witness_Map_Lab10.jpg#capture)
 
 ### Key Insights
 

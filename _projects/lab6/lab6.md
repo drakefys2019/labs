@@ -18,7 +18,7 @@ Lose your way in a thicket of bamboo shoots as you contemplate the aural qualiti
 
 ## <center>You Are Here</center>
 
-<!-- ![Witness Map Lab 6](captures/Witness_Map_Lab6.jpg#capture) -->
+![Witness Map Lab 6](captures/Witness_Map_Lab6.jpg#capture)
 
 ### Key Insights
 

@@ -18,7 +18,7 @@ Adjacent to the shady trees, an echoing tunnel entrance leads to the pristine ga
 
 ## <center>You Are Here</center>
 
-<!-- ![Witness Map Lab 5](captures/Witness_Map_Lab5.jpg#capture) -->
+![Witness Map Lab 5](captures/Witness_Map_Lab5.jpg#capture)
 
 ### Key Insights
 
