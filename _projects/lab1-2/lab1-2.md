@@ -4,7 +4,7 @@ title:  "LAB 1"
 order: 1
 date:   2019-05-06
 thumbnail: captures/header_A.jpg
-visible: true
+visible: false
 dependencies:
 - helpers
 
