@@ -145,7 +145,7 @@ Nicholas of Cusa, 1453
 
 ![Audio Log 1](captures/audio_log_1.jpg#capture)
 
-### [Yung-chia Ta-shih](http://www.greatthoughtstreasury.com/author/author-115)
+### Yung-chia Ta-shih
 
 Just after passing through the second gate on the island hang left to find a side-path to a shaded area, and an audiotape resting on the ground.
 
@@ -229,7 +229,7 @@ Write a journal entry on what you learned from this lab. Pretend that you are a 
   - ##### How might this area's puzzles reflect aspects of the environment?
   - ##### Does the environment play a part in solving these puzzles? Explain the environment's role in this area, and how you discovered it.
 6. ##### **Audio Log Reflections**
-  - ##### Respond to the content of an audio log in this area. In your own words, explain the message behind the content of the log. What is the speaker trying to say? Do you agree with him or her?
+  - ##### Respond to the content of an audio log in this area. In your own words, explain the message behind the content of the log. What is the speaker trying to say? Do you agree with them?
   - ##### Why do you think these audio log(s) were chosen for this location of the game?
   - ##### In what way do the audio log(s) relate to the puzzles in this area?
 
